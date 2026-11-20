@@ -1,151 +1,251 @@
-nom,marque,categorie,inspiration,famille,notes_tete,notes_coeur,notes_fond,saison,occasion,prix_eur,tenue_sur_10,sillage_sur_10
-Club de Nuit Intense Man,Armaf,Dupe,Creed Aventus,Boisé Fruité,Citron Ananas Bergamote Cassis,Bouleau Jasmin Rose,Musc Ambre gris Patchouli Vanille,Toute l'année,Polyvalent,40,9,9
-Club de Nuit Untold,Armaf,Dupe,Baccarat Rouge 540,Ambré Floral,Safran Jasmin,Ambre gris Bois d'ambre,Résine de sapin Cèdre,Toute l'année,Soirée/Sortie,45,9,9
-Club de Nuit Milestone,Armaf,Dupe,Creed Millésime Impérial,Boisé Marin,Fruits rouges Notes marines Bergamote,Violette Bois blanc Santal,Musc Ambroxan Vétiver,Printemps/Été,Quotidien/Été,42,8,8
-Club de Nuit Iconic,Armaf,Dupe,Bleu de Chanel,Boisé Aromatique,Pamplemousse Citron Menthe Poivre rose,Gingembre Noix de muscade Jasmin Melon,Encens Ambre Cèdre Santal Patchouli,Toute l'année,Bureau/Polyvalent,48,8,8
-Club de Nuit Woman,Armaf,Dupe,Chanel Coco Mademoiselle,Chypré Floral,Orange Bergamote Pamplemousse Pêche,Rose Jasmin Géranium Litchi,Patchouli Vanille Musc Vétiver,Printemps/Automne,Quotidien/Bureau,35,8,8
-Odyssey Mandarin Sky,Armaf,Dupe,JPG Scandal Pour Homme,Ambré Boisé,Mandarine Orange Safran Sauge,Caramel Fève Tonka Tagète,Ambroxan Vétiver Cèdre,Automne/Hiver,Soirée/Sortie,38,9,8
-Tag-Her,Armaf,Dupe,D&G Light Blue,Floral Hespéridé,Bergamote Néroli Poivre rose,Chèvrefeuille Jasmin Fleur d'oranger Iris,Vanille Musc Caramel Ciste,Printemps/Été,Quotidien,30,7,7
-Craze,Armaf,Dupe,Parfums de Marly Pegasus,Ambré Fougère,Héliotrope Cumin Bergamote,Amande amère Lavande Jasmin,Vanille Santal Ambre,Automne/Hiver,Soirée/Hiver,35,9,8
-Hunter Intense,Armaf,Dupe,Dior Sauvage / Invictus,Aromatique Boisé,Bergamote Citron Mandarine Cardamome,Géranium Lavande Poivre noir Tubéreuse,Ambroxan Musc Cèdre Vétiver,Printemps/Été,Quotidien/Sport,34,8,8
-Khamrah,Lattafa,Dupe,Kilian Angels' Share,Épicé Gourmand,Cannelle Noix de muscade Bergamote,Dattes Praliné Tubéreuse Mahonial,Vanille Fève Tonka Bois d'ambre Myrrhe Benjoin,Automne/Hiver,Soirée/Hiver,38,10,9
-Khamrah Qahwa,Lattafa,Dupe,Création originale café/épices,Gourmand Café,Cannelle Cardamome Gingembre,Praliné Fruits confits Fleurs blanches,Café Vanille Fève Tonka Benjoin Musc,Automne/Hiver,Soirée/Hiver,40,10,9
-Yara,Lattafa,Dupe,Création vanille crémeuse,Oriental Vanillé,Orchidée Héliotrope Mandarine,Accord gourmand Fruits tropicaux,Vanille Musc Santal,Toute l'année,Quotidien,30,8,7
-Yara Tous,Lattafa,Dupe,Paco Rabanne Fame,Floral Fruité,Mangue Noix de coco Fruit de la passion,Jasmin Héliotrope Fleur d'oranger,Vanille Cashmeran Musc,Printemps/Été,Quotidien/Vacances,30,8,7
-Asad,Lattafa,Dupe,Dior Sauvage Elixir,Ambré Épicé,Poivre noir Tabac Ananas,Patchouli Café Iris,Vanille Ambre Bois secs Benjoin Ciste,Automne/Hiver,Soirée/Hiver,32,9,8
-Asad Bourbon,Lattafa,Dupe,Azzaro The Most Wanted,Épicé Ambré,Poivre rose Lavande Mirabelle,Cacao Davana Noix de muscade,Vanille Bourbon Ambre Vétiver,Automne/Hiver,Soirée/Rendez-vous,32,8,8
-Fakhar Black,Lattafa,Dupe,YSL Y EDP,Aromatique Frais,Pomme Bergamote Gingembre,Lavande Sauge Baies de genévrier,Fève Tonka Bois d'ambre Cèdre Vétiver,Printemps/Été,Quotidien/Bureau,28,7,7
-Fakhar Rose,Lattafa,Dupe,Givenchy L'Interdit,Floral Blanc,Fruits Lys Grenade Aldéhydes,Tubéreuse Jasmin Gardénia Ylang-ylang,Vanille Musc blanc Ambroxan Santal,Automne/Hiver,Soirée/Sortie,30,8,8
-Eclaire,Lattafa,Dupe,Giardini di Toscana Bianco Latte,Gourmand Lacté,Caramel Lait Sucre,Miel Fleurs blanches,Vanille Praliné Musc,Automne/Hiver,Quotidien/Cocooning,38,9,8
-Haya,Lattafa,Dupe,Création florale pétillante,Floral Fruité,Champagne Fraise Mandarine Orange sanguine,Gardénia Jasmin Orchidée vanille,Ambre Santal Châtaigne,Printemps/Été,Sortie/Quotidien,32,7,7
-Qaed Al Fursan,Lattafa,Dupe,Création ananas boisé,Aromatique Fruité,Ananas Safran,Jasmin Sapin baumier,Ambre Cèdre Oud,Toute l'année,Quotidien,25,7,8
-Bade'e Al Oud Honor & Glory,Lattafa,Dupe,Création ananas crème brûlée,Gourmand Épicé,Ananas Crème brûlée,Cannelle Curcuma Poivre noir Benjoin,Vanille Cashmeran Santal Mousse,Toute l'année,Sortie/Soirée,35,9,9
-Bade'e Al Oud Amethyst,Lattafa,Dupe,Initio Atomic Rose,Ambré Floral,Poivre rose Bergamote,Rose de Turquie Rose de Bulgarie Jasmin,Oud Ambre Vanille,Automne/Hiver,Soirée,35,9,9
-Ana Abiyedh Rouge,Lattafa,Dupe,Baccarat Rouge 540,Boisé Épicé,Poire Bergamote Kumquat,Caramel Géranium Cardamome,Ambre gris Musc Mousse de chêne,Toute l'année,Quotidien/Sortie,28,8,8
-Pride Her Confession,Lattafa,Dupe,Blanche Bête Liquides Imaginaires,Floral Lacté,Accords mystiques Cannelle,Tubéreuse Jasmin Encens Mahonial,Vanille Fève Tonka Musc,Automne/Hiver,Soirée/Rendez-vous,42,9,8
-Mayar,Lattafa,Dupe,Mugler Angel Nova,Floral Fruité,Litchi Framboise Feuille de violette,Rose blanche Pivoine Jasmin,Musc Vanille,Printemps/Été,Quotidien,30,8,7
-Hayaati,Lattafa,Dupe,Paco Rabanne Invictus,Boisé Aromatique,Pomme Bergamote,Cannelle Notes boisées,Musc Vanille,Printemps/Été,Quotidien/Sport,25,7,7
-Oud Mood,Lattafa,Dupe,Maison Francis Kurkdjian Oud Satin Mood,Ambré Boisé,Rose Safran Piment,Oud Caramel Notes florales Patchouli,Résines Ambre Notes boisées Encens Musc,Automne/Hiver,Soirée/Hiver,28,9,9
-Raghba,Lattafa,Dupe,Création vanille encens oud,Ambré Vanillé,Vanille Oud Épices,Sucre Encens,Santal Ambre Musc,Automne/Hiver,Hiver/Soirée,25,8,8
-Teriaq,Lattafa,Dupe,Création originale Quentin Bisch,Gourmand Cuiré,Caramel Amande amère Poivre rose Abricot,Miel Rhubarbe Fleurs blanches Rose,Cuir Vanille Musc Vétiver Ciste,Automne/Hiver,Soirée,40,9,9
-Sakeena,Lattafa,Dupe,Création fruitée gourmande,Floral Fruité Gourmand,Fruit de la passion Mandarine Notes ozoniques,Framboise Rose Fleur d'oranger Sel marin,Toffee Praliné Vanille Musc,Printemps/Été,Sortie/Quotidien,32,8,8
-Ramz Silver,Lattafa,Dupe,JPG Ultra Male,Ambré Vanillé,Poire Lavande Menthe Bergamote,Cardamome Sauge,Vanille Ambre Musc Patchouli,Automne/Hiver,Soirée/Club,25,8,8
-Maahir,Lattafa,Dupe,Parfums de Marly Pegasus / Oud,Ambré Floral,Fruits rouges Pêche Bergamote,Jasmin Pivoine Lys rouge,Santal Fleur de vanille Musc,Automne/Hiver,Soirée,32,8,8
-Najdia,Lattafa,Dupe,Paco Rabanne Invictus Aqua,Aromatique Aquatique,Citron Cannelle Pomme Citronnelle Bergamote,Notes aquatiques Lavande Cardamome Romarin,Ambre Musc Santal Cèdre Tabac,Printemps/Été,Quotidien/Sport,25,8,8
-9PM,Afnan,Dupe,JPG Ultra Male,Ambré Vanillé,Pomme Cannelle Lavande sauvage Bergamote,Fleur d'oranger Muguet,Vanille Fève Tonka Ambre Patchouli,Automne/Hiver,Soirée/Club,35,9,9
-9PM Rebel,Afnan,Dupe,Création fruitée ambrée,Fruité Ambré,Ananas Mandarine Pomme,Cèdre Mousse de chêne Vanille,Ambre gris Caramel Bois secs,Automne/Hiver,Soirée,38,8,9
-Supremacy Not Only Intense,Afnan,Dupe,Nishane Hacivat / Creed Aventus,Chypré Fruité,Cassis Bergamote Pomme,Mousse de chêne Patchouli Lavande,Ambre gris Musc Safran,Toute l'année,Polyvalent/Bureau,45,10,9
-Turathi Blue,Afnan,Dupe,Bvlgari Tygar,Hespéridé Boisé,Pamplemousse Bergamote Mandarine,Ambre Notes boisées,Musc Patchouli Épices,Printemps/Été,Quotidien/Bureau,35,8,8
-Amber Oud Gold Edition,Al Haramain,Dupe,Xerjoff Erba Pura,Fruité Sucré,Bergamote Notes vertes,Melon Ananas Notes sucrées Ambre,Musc Vanille Notes boisées,Printemps/Été,Sortie/Soirée,55,10,10
-Amber Oud Ruby,Al Haramain,Dupe,Baccarat Rouge 540 Extrait,Ambré Floral,Amande amère Safran,Jasmin d'Égypte Cèdre,Ambre gris Notes boisées Musc,Automne/Hiver,Soirée,55,9,9
-Hawas,Rasasi,Dupe,Paco Rabanne Invictus Aqua,Aromatique Aquatique,Pomme Bergamote Citron Cannelle,Notes aquatiques Prune Cardamome Fleur d'oranger,Ambre gris Musc Bois flotté Patchouli,Printemps/Été,Quotidien/Sport,45,9,9
-Hawas Ice,Rasasi,Dupe,Création fraîche glacée,Frais Aquatique,Pomme Citron Bergamote Badiane,Prune Fleur d'oranger Cardamome,Musc Ambre Mousse Bois flotté,Printemps/Été,Quotidien/Sport,48,9,9
-Barakkat Rouge 540,Fragrance World,Dupe,Baccarat Rouge 540,Ambré Floral,Safran Jasmin,Ambre gris Bois d'ambre,Résine de sapin Cèdre,Toute l'année,Soirée/Sortie,28,8,8
-Delilah,Maison Alhambra,Dupe,Parfums de Marly Delina,Floral Fruité,Rhubarbe Litchi Bergamote,Rose de Turquie Pivoine Lys,Musc blanc Vanille Cashmeran,Printemps/Été,Quotidien/Rendez-vous,28,8,8
-Salvo,Maison Alhambra,Dupe,Dior Sauvage EDP,Aromatique Fougère,Bergamote,Poivre du Sichuan Lavande Badiane Noix de muscade,Ambroxan Vanille,Toute l'année,Polyvalent,25,7,7
-Red Temptation,Zara,Dupe,Baccarat Rouge 540,Ambré Épicé,Safran Orange amère Coriandre,Praliné Jasmin,Ambre Mousse Musc,Automne/Hiver,Quotidien/Soirée,23,7,7
-Vibrant Leather,Zara,Dupe,Creed Aventus,Boisé Cuiré,Bergamote Citron,Bambou,Cuir Patchouli Papyrus,Printemps/Été,Quotidien/Bureau,23,6,6
-Ambery Vanilla,Dossier,Dupe,YSL Black Opium,Ambré Vanillé,Mandarine Poire Poivre rose Réglisse,Jasmin Fleur d'oranger,Cèdre Patchouli Vanille Café,Automne/Hiver,Soirée,35,8,7
-Orientica Amber Oud Gold Edition,Orientica,Dupe,Xerjoff Erba Pura,Fruité Ambré,Bergamote Notes vertes,Melon Ananas Notes sucrées Ambre,Musc Vanille Notes boisées,Printemps/Été,Sortie/Soirée,55,10,9
-Bharara King,Bharara,Dupe,Xerjoff Erba Pura,Aromatique Fruité,Orange Bergamote Citron,Notes fruitées,Vanille Musc blanc Ambre,Printemps/Été,Sortie/Soirée,65,10,10
-Jean Lowe Immortal,Maison Alhambra,Dupe,Louis Vuitton L'Immensité,Ambré Épicé,Pamplemousse Gingembre Bergamote,Romarin Sauge Géranium Notes aquatiques,Ambroxan Ambre Ciste,Printemps/Été,Quotidien/Bureau,32,8,8
-Sauvage,Dior,Designer,Original,Aromatique Fougère,Bergamote de Calabre Poivre,Poivre du Sichuan Lavande Poivre rose Vétiver Patchouli,Ambroxan Cèdre Ciste,Toute l'année,Polyvalent,115,8,8
-Bleu de Chanel,Chanel,Designer,Original,Boisé Aromatique,Pamplemousse Citron Menthe Poivre rose,Gingembre Noix de muscade Jasmin,Encens Vétiver Cèdre Santal Patchouli,Toute l'année,Bureau/Polyvalent,135,8,7
-Y Eau de Parfum,Yves Saint Laurent,Designer,Original,Aromatique Boisé,Pomme Gingembre Bergamote,Sauge Baies de genévrier Géranium,Bois d'ambre Fève Tonka Cèdre Vétiver,Toute l'année,Quotidien/Bureau,110,8,8
-Libre,Yves Saint Laurent,Designer,Original,Ambré Fougère,Lavande Mandarine Cassis Petit-grain,Lavande Fleur d'oranger Jasmin,Vanille de Madagascar Musc Cèdre Ambre gris,Toute l'année,Soirée/Bureau,115,8,8
-Myslf,Yves Saint Laurent,Designer,Original,Aromatique Floral Boisé,Bergamote de Calabre Bergamote verte,Fleur d'oranger de Tunisie,Ambrofix Patchouli,Toute l'année,Quotidien/Bureau,105,7,7
-Stronger With You,Emporio Armani,Designer,Original,Aromatique Épicé,Cardamome Poivre rose Feuille de violette Menthe,Sauge Melon Ananas Cannelle Lavande,Vanille Châtaigne Cèdre Bois d'ambre,Automne/Hiver,Soirée/Rendez-vous,90,8,8
-Acqua di Giò,Giorgio Armani,Designer,Original,Aromatique Aquatique,Citron vert Citron Bergamote Jasmin Orange Mandarine,Notes marines Jasmin Calone Pêche Romarin,Musc blanc Cèdre Mousse de chêne Patchouli Ambre,Printemps/Été,Quotidien/Été,95,7,7
-Armani Code,Giorgio Armani,Designer,Original,Ambré Épicé,Bergamote Citron,Badiane Fleur d'olivier Gaïac,Cuir Tabac Fève Tonka,Automne/Hiver,Soirée/Bureau,100,7,7
-My Way,Giorgio Armani,Designer,Original,Floral Blanc,Fleur d'oranger Bergamote,Tubéreuse Jasmin d'Inde,Vanille de Madagascar Musc blanc Cèdre de Virginie,Printemps/Été,Quotidien/Sortie,110,8,8
-Le Male Elixir,Jean Paul Gaultier,Designer,Original,Ambré Fougère,Lavande Menthe,Vanille Benjoin,Miel Fève Tonka Tabac,Automne/Hiver,Soirée/Rendez-vous,115,9,9
-Ultra Male,Jean Paul Gaultier,Designer,Original,Ambré Fougère,Poire Lavande Menthe Bergamote Citron,Cannelle Sauge Carvi,Gousse de vanille noire Ambre Cèdre Patchouli,Automne/Hiver,Soirée/Club,105,9,9
-Scandal,Jean Paul Gaultier,Designer,Original,Chypré Floral,Orange sanguine Mandarine,Miel Gardénia Fleur d'oranger Jasmin Pêche,Cire d'abeille Caramel Patchouli Réglisse,Automne/Hiver,Soirée/Sortie,105,9,9
-1 Million,Paco Rabanne,Designer,Original,Boisé Épicé,Mandarine sanguine Pamplemousse Menthe,Cannelle Notes épicées Rose,Ambre Cuir Notes boisées Patchouli,Automne/Hiver,Soirée/Club,95,8,8
-Invictus,Paco Rabanne,Designer,Original,Boisé Aquatique,Notes marines Pamplemousse Mandarine,Feuille de laurier Jasmin,Ambre gris Gaïac Mousse de chêne Patchouli,Printemps/Été,Quotidien/Sport,95,8,8
-Phantom,Paco Rabanne,Designer,Original,Boisé Aromatique,Lavande Zeste de citron Citron d'Amalfi,Lavande Pomme Fumée Notes terreuses Patchouli,Vanille Lavande Vétiver,Toute l'année,Quotidien/Sortie,95,7,7
-Olympéa,Paco Rabanne,Designer,Original,Ambré Floral,Jasmin d'eau Mandarine verte Fleur de gingembre,Vanille Sel,Ambre gris Cashmeran Santal,Toute l'année,Soirée/Quotidien,98,8,8
-Luna Rossa Ocean,Prada,Designer,Original,Aromatique Fougère,Bergamote Poivre rose Armoise,Lavande Iris Sauge Daim Safran,Musc Haïti Vétiver Patchouli Caramel,Toute l'année,Bureau/Quotidien,100,7,7
-Paradoxe,Prada,Designer,Original,Ambré Floral,Poire Mandarine Bergamote,Fleur d'oranger Essence de néroli Jasmin Sambac,Vanille Bourbon Musc blanc Ambre Benjoin,Toute l'année,Quotidien/Soirée,115,8,8
-Candy,Prada,Designer,Original,Ambré Vanillé,Caramel,Notes poudrées Musc,Benjoin Vanille,Automne/Hiver,Quotidien/Cocooning,95,7,7
-J'adore,Dior,Designer,Original,Floral Fruité,Poire Melon Magnolia Pêche Mandarine Bergamote,Jasmin Muguet Tubéreuse Freesia Rose Orchidée,Musc Vanille Mûre Cèdre,Printemps/Été,Quotidien/Bureau,125,8,7
-Miss Dior,Dior,Designer,Original,Ambré Floral,Iris Pivoine Muguet,Abricot Rose Pêche,Vanille Fève Tonka Musc Benjoin Santal,Printemps/Été,Quotidien/Rendez-vous,125,8,7
-Dior Homme Intense,Dior,Designer,Original,Boisé Floral Musqué,Lavande,Iris Ambrette Poire,Cèdre de Virginie Vétiver,Automne/Hiver,Soirée/Rendez-vous,120,9,8
-La Vie Est Belle,Lancôme,Designer,Original,Floral Fruité Gourmand,Cassis Poire,Iris Jasmin Fleur d'oranger,Praliné Vanille Patchouli Fève Tonka,Automne/Hiver,Quotidien/Soirée,115,9,9
-Idôle,Lancôme,Designer,Original,Chypré Floral,Poire Bergamote Poivre rose,Rose Jasmin,Musc blanc Vanille Patchouli Cèdre,Printemps/Été,Quotidien/Bureau,105,7,7
-Coco Mademoiselle,Chanel,Designer,Original,Ambré Floral,Orange Mandarine Bergamote Fleur d'oranger,Rose de Turquie Jasmin Mimosa Ylang-ylang,Patchouli Musc blanc Vanille Vétiver Fève Tonka,Toute l'année,Bureau/Soirée,135,9,8
-Chance Eau Tendre,Chanel,Designer,Original,Floral Fruité,Coing Pamplemousse,Jacinthe Jasmin,Musc Iris Cèdre de Virginie Ambre,Printemps/Été,Quotidien,125,7,7
-Chanel N°5,Chanel,Designer,Original,Floral Aldéhydé,Aldéhydes Ylang-ylang Néroli Bergamote Pêche,Iris Jasmin Rose Muguet,Civette Santal Mousse de chêne Musc Vanille Vétiver,Automne/Hiver,Soirée/Cérémonie,140,8,8
-Allure Homme Sport,Chanel,Designer,Original,Boisé Épicé,Orange Notes marines Aldéhydes Mandarine sanguine,Poivre Néroli Cèdre,Fève Tonka Vanille Musc blanc Ambre Vétiver,Printemps/Été,Quotidien/Sport,120,7,7
-Born in Roma,Valentino,Designer,Original,Boisé Épicé,Notes minérales Feuille de violette Sel,Gingembre Sauge,Notes boisées Vétiver,Toute l'année,Quotidien/Sortie,105,7,7
-Voce Viva,Valentino,Designer,Original,Floral Boisé Musqué,Mandarine Bergamote Gingembre,Fleur d'oranger Gardénia,Vanille Fève Tonka Musc Santal Mousse de chêne,Automne/Hiver,Quotidien/Soirée,105,8,7
-Good Girl,Carolina Herrera,Designer,Original,Ambré Floral,Amande Café Bergamote Citron,Tubéreuse Jasmin Sambac Fleur d'oranger Iris Rose,Fève Tonka Cacao Vanille Praliné Santal Musc,Automne/Hiver,Soirée/Sortie,115,9,8
-212 VIP Black,Carolina Herrera,Designer,Original,Aromatique Fougère,Absinthe Anis Fenouil,Lavande,Gousse de vanille noire Musc,Automne/Hiver,Soirée/Club,95,8,8
-Bad Boy,Carolina Herrera,Designer,Original,Ambré Épicé,Poivre blanc Bergamote Poivre rose,Cèdre Sauge,Fève Tonka Cacao Bois d'ambre,Automne/Hiver,Soirée,100,8,8
-Boss Bottled,Hugo Boss,Designer,Original,Boisé Épicé,Pomme Prune Citron Bergamote Géranium,Cannelle Acajou Œillet,Vanille Santal Cèdre Vétiver Olivier,Automne/Hiver,Bureau/Quotidien,85,7,7
-Boss The Scent,Hugo Boss,Designer,Original,Aromatique Épicé,Gingembre Mandarine Bergamote,Maninka Lavande,Cuir Notes boisées,Automne/Hiver,Rendez-vous/Soirée,85,7,6
-Burberry Hero,Burberry,Designer,Original,Boisé Épicé,Bergamote,Genévrier Poivre noir,Cèdre de l'Atlas Cèdre de Virginie Cèdre de l'Himalaya,Automne/Hiver,Quotidien/Bureau,95,7,7
-Burberry Her,Burberry,Designer,Original,Floral Fruité Gourmand,Fraise Framboise Mûre Cerise acide Cassis Mandarine,Violette Jasmin,Musc Vanille Cashmeran Notes boisées Ambre,Toute l'année,Quotidien,105,8,8
-Eros,Versace,Designer,Original,Aromatique Fougère,Menthe Pomme verte Citron,Fève Tonka Ambroxan Géranium,Vanille de Madagascar Cèdre Vétiver Mousse de chêne,Automne/Hiver,Soirée/Club,90,9,9
-Dylan Blue,Versace,Designer,Original,Aromatique Fougère,Bergamote de Calabre Notes aquatiques Pamplemousse Feuille de figuier,Ambroxan Poivre noir Patchouli Feuille de violette Papyrus,Encens Musc Fève Tonka Safran,Toute l'année,Polyvalent,85,8,7
-Bright Crystal,Versace,Designer,Original,Floral Fruité,Yuzu Grenade Notes glacées,Pivoine Lotus Magnolia,Musc Acajou Ambre,Printemps/Été,Quotidien,80,6,6
-Alien,Mugler,Designer,Original,Ambré Boisé,Jasmin Sambac,Cashmeran,Ambre,Automne/Hiver,Soirée,110,10,9
-Angel,Mugler,Designer,Original,Ambré Vanillé,Barbe à papa Noix de coco Cassis Melon Jasmin Bergamote,Miel Fruits rouges Mûre Prune Abricot Pêche Jasmin,Patchouli Chocolat Caramel Vanille Fève Tonka Ambre Musc,Automne/Hiver,Soirée/Hiver,115,10,10
-A*Men,Mugler,Designer,Original,Ambré Boisé,Lavande Menthe Notes fruitées Coriandre Notes vertes Bergamote,Caramel Patchouli Miel Lait Cèdre Jasmin Muguet,Café Patchouli Vanille Fève Tonka Benjoin Ambre Santal Musc,Automne/Hiver,Hiver/Soirée,95,9,9
-Wanted,Azzaro,Designer,Original,Boisé Épicé,Citron Gingembre Lavande Menthe,Pomme Genévrier Cardamome du Guatemala Géranium,Fève Tonka Bois d'ambre Vétiver d'Haïti,Toute l'année,Quotidien/Sortie,85,8,8
-The Most Wanted,Azzaro,Designer,Original,Ambré Épicé,Cardamome,Toffee Caramel,Bois d'ambre,Automne/Hiver,Soirée/Rendez-vous,95,9,8
-Light Blue,Dolce & Gabbana,Designer,Original,Floral Fruité,Citron de Sicile Pomme Cèdre Campanule,Bambou Jasmin Rose blanche,Cèdre Musc Ambre,Printemps/Été,Quotidien/Été,85,6,6
-The One Eau de Parfum,Dolce & Gabbana,Designer,Original,Boisé Épicé,Pamplemousse Coriandre Basilic,Gingembre Cardamome Fleur d'oranger,Ambre Tabac Cèdre,Automne/Hiver,Rendez-vous/Soirée,95,7,6
-Flowerbomb,Viktor & Rolf,Designer,Original,Ambré Floral,Thé Bergamote Osmanthus,Orchidée Jasmin Rose Freesia Fleur d'oranger,Patchouli Musc Vanille,Automne/Hiver,Soirée/Quotidien,115,8,8
-Spicebomb Extreme,Viktor & Rolf,Designer,Original,Ambré Épicé,Poivre noir Piment,Cannelle Cumin Safran,Tabac Vanille Bourbon Ambre,Automne/Hiver,Hiver/Soirée,110,9,9
-Cloud,Ariana Grande,Designer,Original,Floral Fruité Gourmand,Lavande Poire Bergamote,Crème fouettée Praliné Noix de coco Orchidée vanille,Musc Notes boisées,Toute l'année,Quotidien,65,8,7
-Aventus,Creed,Niche,Original,Chypré Fruité,Bergamote Cassis Pomme Citron Poivre rose,Ananas Patchouli Jasmin du Maroc,Bouleau Musc Mousse de chêne Ambroxan Cèdre,Toute l'année,Polyvalent/Prestige,310,8,8
-Baccarat Rouge 540,Maison Francis Kurkdjian,Niche,Original,Ambré Floral,Safran Jasmin,Ambre gris Bois d'ambre,Résine de sapin Cèdre,Toute l'année,Soirée/Prestige,265,9,9
-Angels' Share,By Kilian,Niche,Original,Ambré Vanillé,Cognac,Cannelle Fève Tonka Chêne,Praliné Vanille Santal,Automne/Hiver,Soirée/Hiver,230,9,8
-Love Don't Be Shy,By Kilian,Niche,Original,Ambré,Néroli Bergamote Poivre rose Coriandre,Fleur d'oranger Chèvrefeuille Jasmin Iris Rose,Sucre Vanille Caramel Musc Civette Ciste,Automne/Hiver,Soirée/Rendez-vous,230,8,8
-Good Girl Gone Bad,By Kilian,Niche,Original,Floral Fruité,Osmanthus Jasmin Rose de Mai,Tubéreuse d'Inde Narcisse,Ambre Cèdre,Printemps/Été,Soirée/Sortie,230,8,7
-Layton,Parfums de Marly,Niche,Original,Ambré Floral,Pomme Lavande Bergamote Mandarine,Géranium Violette Jasmin,Vanille Cardamome Santal Poivre Gaïac Patchouli,Automne/Hiver,Soirée/Polyvalent,260,9,8
-Herod,Parfums de Marly,Niche,Original,Boisé Épicé,Cannelle Poivre,Feuille de tabac Encens Osmanthus Ciste,Vanille Iso E Super Cèdre Musc Vétiver,Automne/Hiver,Hiver/Soirée,260,8,7
-Pegasus,Parfums de Marly,Niche,Original,Ambré Fougère,Héliotrope Cumin Bergamote,Amande amère Lavande Jasmin,Vanille Santal Ambre,Automne/Hiver,Soirée/Hiver,260,9,8
-Delina,Parfums de Marly,Niche,Original,Floral,Litchi Rhubarbe Bergamote Noix de muscade,Rose de Turquie Pivoine Musc Petalia Vanille,Cashmeran Cèdre Encens Vétiver d'Haïti,Printemps/Été,Sortie/Rendez-vous,265,9,9
-Percival,Parfums de Marly,Niche,Original,Aromatique Hespéridé,Lavande Mandarine Bergamote Géranium,Hédione Violette Coriandre Jasmin Cannelle,Ambroxan Bois d'ambre Sapin baumier Musc,Printemps/Été,Quotidien/Bureau,260,8,8
-Althaïr,Parfums de Marly,Niche,Original,Ambré Vanillé,Cannelle Cardamome Fleur d'oranger Bergamote,Vanille Bourbon Élémi,Praliné Musc Ambroxan Gaïac,Automne/Hiver,Soirée/Rendez-vous,265,9,8
-Naxos,Xerjoff,Niche,Original,Aromatique Épicé,Lavande Bergamote Citron,Miel Cannelle Cashmeran Jasmin Sambac,Feuille de tabac Vanille Fève Tonka,Automne/Hiver,Soirée/Prestige,245,9,9
-Erba Pura,Xerjoff,Niche,Original,Ambré,Orange de Sicile Bergamote de Calabre Citron de Sicile,Fruits,Musc blanc Vanille de Madagascar Ambre,Printemps/Été,Sortie/Soirée,240,10,10
-Alexandria II,Xerjoff,Niche,Original,Ambré Boisé,Palissandre Lavande Cannelle Pomme,Rose Cèdre Muguet,Oud du Laos Santal Vanille Ambre Musc,Automne/Hiver,Soirée/Prestige,320,10,9
-Hacivat,Nishane,Niche,Original,Chypré,Ananas Pamplemousse Bergamote,Cèdre Patchouli Jasmin,Mousse de chêne Notes boisées,Printemps/Été,Polyvalent/Bureau,225,10,9
-Ani,Nishane,Niche,Original,Ambré Floral,Gingembre Bergamote Poivre rose Notes vertes,Cardamome Cassis Rose de Turquie,Vanille Benjoin Santal Cèdre Patchouli Musc Ambre gris,Automne/Hiver,Soirée/Hiver,225,9,9
-Oud for Greatness,Initio Parfums Prives,Niche,Original,Boisé Épicé,Safran Noix de muscade Lavande,Oud naturel Huile d'agarwood,Patchouli Musc,Automne/Hiver,Soirée/Prestige,280,10,10
-Side Effect,Initio Parfums Prives,Niche,Original,Ambré,Cannelle Écorce,Tabac Rhum Vanille,Santal Hédione,Automne/Hiver,Soirée/Rendez-vous,280,9,9
-Atomic Rose,Initio Parfums Prives,Niche,Original,Ambré Floral,Poivre rose Bergamote Hédione,Rose de Bulgarie Rose de Turquie Jasmin d'Égypte,Vanille de Madagascar Ambre,Automne/Hiver,Soirée,280,9,9
-Kirke,Tiziana Terenzi,Niche,Original,Chypré Fruité,Fruit de la passion Pêche Poire Framboise Cassis Sable,Muguet,Musc Santal Vanille Patchouli Héliotrope,Printemps/Été,Sortie/Été,195,10,10
-Megamare,Orto Parisi,Niche,Original,Aromatique Aquatique,Bergamote Citron,Algues Calone Hédione,Musc Ambroxan Cèdre,Printemps/Été,Été/Aventure,165,10,10
-Cedrat Boise,Mancera,Niche,Original,Hespéridé Aromatique,Citron de Sicile Cassis Bergamote Notes épicées,Notes fruitées Feuille de patchouli Jasmin d'eau,Cèdre Cuir Santal Vanille Musc blanc Mousse,Toute l'année,Polyvalent,125,8,8
-Roses Vanille,Mancera,Niche,Original,Ambré Vanillé,Notes aquatiques Citron,Rose Sucre,Vanille Sucre Musc blanc Cèdre,Automne/Hiver,Soirée,125,9,9
-Intense Cafe,Montale,Niche,Original,Ambré Vanillé,Notes florales,Rose Café,Vanille Musc blanc Ambre,Automne/Hiver,Soirée/Hiver,120,9,9
-Arabians Tonka,Montale,Niche,Original,Ambré Boisé,Safran Bergamote,Oud Rose de Bulgarie,Canne à sucre Fève Tonka Ambre Musc blanc Mousse de chêne,Automne/Hiver,Soirée/Hiver,125,10,10
-Elysium Pour Homme,Roja Dove,Niche,Original,Aromatique Fougère,Pamplemousse Citron Bergamote Citron vert Thym Galbanum,Vétiver Baies de genévrier Cassis Pomme Cèdre Poivre rose,Ambre gris Cuir Vanille Benjoin Ciste,Printemps/Été,Bureau/Prestige,295,7,7
-Interlude Man,Amouage,Niche,Original,Ambré Boisé,Origan Poivre Bergamote,Encens Opoponax Ambre Ciste,Cuir Oud Santal Patchouli,Automne/Hiver,Hiver/Prestige,340,10,10
-Reflection Man,Amouage,Niche,Original,Boisé Floral Musqué,Romarin Poivre rose Petit-grain,Jasmin Néroli Racine d'iris Ylang-ylang,Santal Vétiver Cèdre Patchouli,Printemps/Été,Bureau/Cérémonie,340,8,8
-Marfa,Memo Paris,Niche,Original,Floral Boisé Musqué,Fleur d'oranger Mandarine,Tubéreuse Agave Ylang-ylang,Vanille Santal Musc blanc Cèdre,Printemps/Été,Sortie/Prestige,245,9,8
-Irish Leather,Memo Paris,Niche,Original,Cuiré,Baies de genévrier,Maté,Cuir Ambre Fève Tonka,Automne/Hiver,Quotidien/Hiver,245,8,8
-Gypsy Water,Byredo,Niche,Original,Boisé Aromatique,Genévrier Citron Bergamote Poivre,Aiguilles de pin Encens Racine d'iris,Santal Vanille Ambre,Printemps/Été,Quotidien/Bureau,215,6,6
-Bal d'Afrique,Byredo,Niche,Original,Ambré Boisé,Limone Tagète Bergamote Cassis Fleur d'oranger,Violette Cyclamen Jasmin,Vétiver Musc Ambre Cèdre du Maroc,Printemps/Été,Quotidien/Bureau,215,7,7
-Mojave Ghost,Byredo,Niche,Original,Ambré Floral,Sapotille Ambrette,Magnolia Violette Santal,Ambre gris Cèdre,Toute l'année,Quotidien/Bureau,215,7,6
-Santal 33,Le Labo,Niche,Original,Boisé Aromatique,Cardamome Iris Violette,Santal australien Papyrus Cèdre,Cuir Ambre,Toute l'année,Quotidien/Bureau,285,8,8
-Another 13,Le Labo,Niche,Original,Ambré Boisé,Poire Pomme Agrumes,Ambrette Salicylate d'amyle Mousse Jasmin,Iso E Super Cetalox Ambrettolide Helvetolide,Toute l'année,Quotidien/Bureau,285,8,7
-Tam Dao,Diptyque,Niche,Original,Boisé Floral Musqué,Cyprès d'Italie Myrte Rose,Santal Cèdre,Palissandre Épices Ambre Musc blanc,Toute l'année,Quotidien/Bureau,165,7,6
-Philosykos,Diptyque,Niche,Original,Boisé Aromatique,Feuille de figuier Figue,Notes vertes Noix de coco,Figuier Notes boisées Cèdre,Printemps/Été,Quotidien/Été,165,6,6
-Portrait of a Lady,Frederic Malle,Niche,Original,Ambré Floral,Rose Clou de girofle Framboise Cassis Cannelle,Patchouli Encens Santal,Musc Benjoin Ambre,Automne/Hiver,Soirée/Prestige,315,10,9
-Ambre Sultan,Serge Lutens,Niche,Original,Ambré,Origan Laurier Coriandre,Ambre Résines Benjoin Myrrhe,Santal Patchouli Vanille Angélique,Automne/Hiver,Hiver/Soirée,145,9,8
-Not A Perfume,Juliette Has A Gun,Niche,Original,Floral Boisé Musqué,Cetalox,Ambroxan,Musc blanc Notes boisées,Toute l'année,Quotidien/Bureau,125,7,6
-Molecule 01,Escentric Molecules,Niche,Original,Boisé Floral Musqué,Iso E Super,Bois de cèdre velouté,Musc subtil,Toute l'année,Quotidien/Bureau,115,7,6
-Tobacco Vanille,Tom Ford,Niche,Original,Ambré Épicé,Feuille de tabac Notes épicées,Vanille Cacao Fève Tonka Fleur de tabac,Fruits secs Notes boisées,Automne/Hiver,Hiver/Soirée,275,9,9
-Lost Cherry,Tom Ford,Niche,Original,Ambré Floral,Cerise griotte Amande amère Liqueur,Griotte Prune Rose de Turquie Jasmin Sambac,Fève Tonka Vanille Baume du Pérou Cannelle Benjoin Santal,Automne/Hiver,Soirée/Rendez-vous,325,7,7
-Oud Wood,Tom Ford,Niche,Original,Ambré Boisé,Palissandre Cardamome Poivre chinois,Oud Santal Vétiver,Fève Tonka Vanille Ambre,Automne/Hiver,Bureau/Soirée,275,7,6
-Black Afgano,Nasomatto,Niche,Original,Boisé Aromatique,Cannabis Notes vertes,Résines Notes boisées Café Tabac,Encens Oud,Automne/Hiver,Hiver/Soirée,155,10,9
-Fleur Narcotique,Ex Nihilo,Niche,Original,Floral Fruité,Litchi Bergamote Pêche,Pivoine Fleur d'oranger Jasmin Pétalia,Musc Mousse Notes boisées,Printemps/Été,Sortie/Prestige,265,8,8
-Gris Charnel,BDK Parfums,Niche,Original,Ambré Épicé,Figue Thé noir Cardamome,Iris Vétiver Bourbon,Santal Fève Tonka,Automne/Hiver,Quotidien/Rendez-vous,195,8,7
-Halfeti,Penhaligon's,Niche,Original,Ambré Boisé,Feuille de cyprès Safran Cardamome Armoise Bergamote,Rose de Bulgarie Noix de muscade Jasmin,Oud Cuir Cèdre Santal Ambre Fève Tonka Vanille Musc,Automne/Hiver,Soirée/Prestige,245,9,8
-Silver Mountain Water,Creed,Niche,Original,Aromatique,Bergamote Mandarine,Thé vert Cassis,Musc Petit-grain Santal Galbanum,Printemps/Été,Quotidien/Bureau,295,7,7
-Green Irish Tweed,Creed,Niche,Original,Boisé Floral Musqué,Verveine odorante Iris,Feuille de violette,Ambre gris Santal,Printemps/Été,Bureau/Prestige,295,8,7
+nom,marque,categorie,genre,inspiration,famille,notes_tete,notes_coeur,notes_fond,prix_eur,tenue_sur_10,sillage_sur_10,saison,occasion
+Club de Nuit Intense Man,Armaf,Dupe,Homme,Creed Aventus,Boisé Fruité,Citron Ananas Bergamote Cassis,Bouleau Jasmin Rose,Musc Ambre gris Patchouli Vanille,40,9,9,Toute l'année,Polyvalent
+Club de Nuit Untold,Armaf,Dupe,Unisexe,Baccarat Rouge 540,Ambré Floral,Safran Jasmin,Ambre gris Bois d'ambre,Résine de sapin Cèdre,45,9,9,Toute l'année,Soirée/Sortie
+Club de Nuit Milestone,Armaf,Dupe,Homme,Creed Millésime Impérial,Boisé Marin,Fruits rouges Notes marines Bergamote,Violette Bois blanc Santal,Musc Ambroxan Vétiver,42,8,8,Printemps/Été,Quotidien/Été
+Club de Nuit Iconic,Armaf,Dupe,Homme,Bleu de Chanel,Boisé Aromatique,Pamplemousse Citron Menthe Poivre rose,Gingembre Noix de muscade Jasmin Melon,Encens Ambre Cèdre Santal Patchouli,48,8,8,Toute l'année,Bureau/Polyvalent
+Club de Nuit Woman,Armaf,Dupe,Homme,Chanel Coco Mademoiselle,Chypré Floral,Orange Bergamote Pamplemousse Pêche,Rose Jasmin Géranium Litchi,Patchouli Vanille Musc Vétiver,35,8,8,Printemps/Automne,Quotidien/Bureau
+Odyssey Mandarin Sky,Armaf,Dupe,Homme,JPG Scandal Pour Homme,Ambré Boisé,Mandarine Orange Safran Sauge,Caramel Fève Tonka Tagète,Ambroxan Vétiver Cèdre,38,9,8,Automne/Hiver,Soirée/Sortie
+Tag-Her,Armaf,Dupe,Homme,D&G Light Blue,Floral Hespéridé,Bergamote Néroli Poivre rose,Chèvrefeuille Jasmin Fleur d'oranger Iris,Vanille Musc Caramel Ciste,30,7,7,Printemps/Été,Quotidien
+Craze,Armaf,Dupe,Homme,Parfums de Marly Pegasus,Ambré Fougère,Héliotrope Cumin Bergamote,Amande amère Lavande Jasmin,Vanille Santal Ambre,35,9,8,Automne/Hiver,Soirée/Hiver
+Hunter Intense,Armaf,Dupe,Homme,Dior Sauvage / Invictus,Aromatique Boisé,Bergamote Citron Mandarine Cardamome,Géranium Lavande Poivre noir Tubéreuse,Ambroxan Musc Cèdre Vétiver,34,8,8,Printemps/Été,Quotidien/Sport
+Khamrah,Lattafa,Dupe,Unisexe,Kilian Angels' Share,Épicé Gourmand,Cannelle Noix de muscade Bergamote,Dattes Praliné Tubéreuse Mahonial,Vanille Fève Tonka Bois d'ambre Myrrhe Benjoin,38,10,9,Automne/Hiver,Soirée/Hiver
+Khamrah Qahwa,Lattafa,Dupe,Unisexe,Création originale café/épices,Gourmand Café,Cannelle Cardamome Gingembre,Praliné Fruits confits Fleurs blanches,Café Vanille Fève Tonka Benjoin Musc,40,10,9,Automne/Hiver,Soirée/Hiver
+Yara,Lattafa,Dupe,Homme,Création vanille crémeuse,Oriental Vanillé,Orchidée Héliotrope Mandarine,Accord gourmand Fruits tropicaux,Vanille Musc Santal,30,8,7,Toute l'année,Quotidien
+Yara Tous,Lattafa,Dupe,Homme,Paco Rabanne Fame,Floral Fruité,Mangue Noix de coco Fruit de la passion,Jasmin Héliotrope Fleur d'oranger,Vanille Cashmeran Musc,30,8,7,Printemps/Été,Quotidien/Vacances
+Asad,Lattafa,Dupe,Homme,Dior Sauvage Elixir,Ambré Épicé,Poivre noir Tabac Ananas,Patchouli Café Iris,Vanille Ambre Bois secs Benjoin Ciste,32,9,8,Automne/Hiver,Soirée/Hiver
+Asad Bourbon,Lattafa,Dupe,Homme,Azzaro The Most Wanted,Épicé Ambré,Poivre rose Lavande Mirabelle,Cacao Davana Noix de muscade,Vanille Bourbon Ambre Vétiver,32,8,8,Automne/Hiver,Soirée/Rendez-vous
+Fakhar Black,Lattafa,Dupe,Homme,YSL Y EDP,Aromatique Frais,Pomme Bergamote Gingembre,Lavande Sauge Baies de genévrier,Fève Tonka Bois d'ambre Cèdre Vétiver,28,7,7,Printemps/Été,Quotidien/Bureau
+Fakhar Rose,Lattafa,Dupe,Homme,Givenchy L'Interdit,Floral Blanc,Fruits Lys Grenade Aldéhydes,Tubéreuse Jasmin Gardénia Ylang-ylang,Vanille Musc blanc Ambroxan Santal,30,8,8,Automne/Hiver,Soirée/Sortie
+Eclaire,Lattafa,Dupe,Homme,Giardini di Toscana Bianco Latte,Gourmand Lacté,Caramel Lait Sucre,Miel Fleurs blanches,Vanille Praliné Musc,38,9,8,Automne/Hiver,Quotidien/Cocooning
+Haya,Lattafa,Dupe,Homme,Création florale pétillante,Floral Fruité,Champagne Fraise Mandarine Orange sanguine,Gardénia Jasmin Orchidée vanille,Ambre Santal Châtaigne,32,7,7,Printemps/Été,Sortie/Quotidien
+Qaed Al Fursan,Lattafa,Dupe,Homme,Création ananas boisé,Aromatique Fruité,Ananas Safran,Jasmin Sapin baumier,Ambre Cèdre Oud,25,7,8,Toute l'année,Quotidien
+Bade'e Al Oud Honor & Glory,Lattafa,Dupe,Homme,Création ananas crème brûlée,Gourmand Épicé,Ananas Crème brûlée,Cannelle Curcuma Poivre noir Benjoin,Vanille Cashmeran Santal Mousse,35,9,9,Toute l'année,Sortie/Soirée
+Bade'e Al Oud Amethyst,Lattafa,Dupe,Homme,Initio Atomic Rose,Ambré Floral,Poivre rose Bergamote,Rose de Turquie Rose de Bulgarie Jasmin,Oud Ambre Vanille,35,9,9,Automne/Hiver,Soirée
+Ana Abiyedh Rouge,Lattafa,Dupe,Unisexe,Baccarat Rouge 540,Boisé Épicé,Poire Bergamote Kumquat,Caramel Géranium Cardamome,Ambre gris Musc Mousse de chêne,28,8,8,Toute l'année,Quotidien/Sortie
+Pride Her Confession,Lattafa,Dupe,Homme,Blanche Bête Liquides Imaginaires,Floral Lacté,Accords mystiques Cannelle,Tubéreuse Jasmin Encens Mahonial,Vanille Fève Tonka Musc,42,9,8,Automne/Hiver,Soirée/Rendez-vous
+Mayar,Lattafa,Dupe,Homme,Mugler Angel Nova,Floral Fruité,Litchi Framboise Feuille de violette,Rose blanche Pivoine Jasmin,Musc Vanille,30,8,7,Printemps/Été,Quotidien
+Hayaati,Lattafa,Dupe,Homme,Paco Rabanne Invictus,Boisé Aromatique,Pomme Bergamote,Cannelle Notes boisées,Musc Vanille,25,7,7,Printemps/Été,Quotidien/Sport
+Oud Mood,Lattafa,Dupe,Homme,Maison Francis Kurkdjian Oud Satin Mood,Ambré Boisé,Rose Safran Piment,Oud Caramel Notes florales Patchouli,Résines Ambre Notes boisées Encens Musc,28,9,9,Automne/Hiver,Soirée/Hiver
+Raghba,Lattafa,Dupe,Homme,Création vanille encens oud,Ambré Vanillé,Vanille Oud Épices,Sucre Encens,Santal Ambre Musc,25,8,8,Automne/Hiver,Hiver/Soirée
+Teriaq,Lattafa,Dupe,Homme,Création originale Quentin Bisch,Gourmand Cuiré,Caramel Amande amère Poivre rose Abricot,Miel Rhubarbe Fleurs blanches Rose,Cuir Vanille Musc Vétiver Ciste,40,9,9,Automne/Hiver,Soirée
+Sakeena,Lattafa,Dupe,Homme,Création fruitée gourmande,Floral Fruité Gourmand,Fruit de la passion Mandarine Notes ozoniques,Framboise Rose Fleur d'oranger Sel marin,Toffee Praliné Vanille Musc,32,8,8,Printemps/Été,Sortie/Quotidien
+Ramz Silver,Lattafa,Dupe,Homme,JPG Ultra Male,Ambré Vanillé,Poire Lavande Menthe Bergamote,Cardamome Sauge,Vanille Ambre Musc Patchouli,25,8,8,Automne/Hiver,Soirée/Club
+Maahir,Lattafa,Dupe,Homme,Parfums de Marly Pegasus / Oud,Ambré Floral,Fruits rouges Pêche Bergamote,Jasmin Pivoine Lys rouge,Santal Fleur de vanille Musc,32,8,8,Automne/Hiver,Soirée
+Najdia,Lattafa,Dupe,Homme,Paco Rabanne Invictus Aqua,Aromatique Aquatique,Citron Cannelle Pomme Citronnelle Bergamote,Notes aquatiques Lavande Cardamome Romarin,Ambre Musc Santal Cèdre Tabac,25,8,8,Printemps/Été,Quotidien/Sport
+9PM,Afnan,Dupe,Homme,JPG Ultra Male,Ambré Vanillé,Pomme Cannelle Lavande sauvage Bergamote,Fleur d'oranger Muguet,Vanille Fève Tonka Ambre Patchouli,35,9,9,Automne/Hiver,Soirée/Club
+9PM Rebel,Afnan,Dupe,Homme,Création fruitée ambrée,Fruité Ambré,Ananas Mandarine Pomme,Cèdre Mousse de chêne Vanille,Ambre gris Caramel Bois secs,38,8,9,Automne/Hiver,Soirée
+Supremacy Not Only Intense,Afnan,Dupe,Homme,Nishane Hacivat / Creed Aventus,Chypré Fruité,Cassis Bergamote Pomme,Mousse de chêne Patchouli Lavande,Ambre gris Musc Safran,45,10,9,Toute l'année,Polyvalent/Bureau
+Turathi Blue,Afnan,Dupe,Homme,Bvlgari Tygar,Hespéridé Boisé,Pamplemousse Bergamote Mandarine,Ambre Notes boisées,Musc Patchouli Épices,35,8,8,Printemps/Été,Quotidien/Bureau
+Amber Oud Gold Edition,Al Haramain,Dupe,Unisexe,Xerjoff Erba Pura,Fruité Sucré,Bergamote Notes vertes,Melon Ananas Notes sucrées Ambre,Musc Vanille Notes boisées,55,10,10,Printemps/Été,Sortie/Soirée
+Amber Oud Ruby,Al Haramain,Dupe,Unisexe,Baccarat Rouge 540 Extrait,Ambré Floral,Amande amère Safran,Jasmin d'Égypte Cèdre,Ambre gris Notes boisées Musc,55,9,9,Automne/Hiver,Soirée
+Hawas,Rasasi,Dupe,Homme,Paco Rabanne Invictus Aqua,Aromatique Aquatique,Pomme Bergamote Citron Cannelle,Notes aquatiques Prune Cardamome Fleur d'oranger,Ambre gris Musc Bois flotté Patchouli,45,9,9,Printemps/Été,Quotidien/Sport
+Hawas Ice,Rasasi,Dupe,Homme,Création fraîche glacée,Frais Aquatique,Pomme Citron Bergamote Badiane,Prune Fleur d'oranger Cardamome,Musc Ambre Mousse Bois flotté,48,9,9,Printemps/Été,Quotidien/Sport
+Barakkat Rouge 540,Fragrance World,Dupe,Unisexe,Baccarat Rouge 540,Ambré Floral,Safran Jasmin,Ambre gris Bois d'ambre,Résine de sapin Cèdre,28,8,8,Toute l'année,Soirée/Sortie
+Delilah,Maison Alhambra,Dupe,Homme,Parfums de Marly Delina,Floral Fruité,Rhubarbe Litchi Bergamote,Rose de Turquie Pivoine Lys,Musc blanc Vanille Cashmeran,28,8,8,Printemps/Été,Quotidien/Rendez-vous
+Salvo,Maison Alhambra,Dupe,Homme,Dior Sauvage EDP,Aromatique Fougère,Bergamote,Poivre du Sichuan Lavande Badiane Noix de muscade,Ambroxan Vanille,25,7,7,Toute l'année,Polyvalent
+Red Temptation,Zara,Dupe,Unisexe,Baccarat Rouge 540,Ambré Épicé,Safran Orange amère Coriandre,Praliné Jasmin,Ambre Mousse Musc,23,7,7,Automne/Hiver,Quotidien/Soirée
+Vibrant Leather,Zara,Dupe,Homme,Creed Aventus,Boisé Cuiré,Bergamote Citron,Bambou,Cuir Patchouli Papyrus,23,6,6,Printemps/Été,Quotidien/Bureau
+Ambery Vanilla,Dossier,Dupe,Homme,YSL Black Opium,Ambré Vanillé,Mandarine Poire Poivre rose Réglisse,Jasmin Fleur d'oranger,Cèdre Patchouli Vanille Café,35,8,7,Automne/Hiver,Soirée
+Orientica Amber Oud Gold Edition,Orientica,Dupe,Unisexe,Xerjoff Erba Pura,Fruité Ambré,Bergamote Notes vertes,Melon Ananas Notes sucrées Ambre,Musc Vanille Notes boisées,55,10,9,Printemps/Été,Sortie/Soirée
+Bharara King,Bharara,Dupe,Unisexe,Xerjoff Erba Pura,Aromatique Fruité,Orange Bergamote Citron,Notes fruitées,Vanille Musc blanc Ambre,65,10,10,Printemps/Été,Sortie/Soirée
+Jean Lowe Immortal,Maison Alhambra,Dupe,Homme,Louis Vuitton L'Immensité,Ambré Épicé,Pamplemousse Gingembre Bergamote,Romarin Sauge Géranium Notes aquatiques,Ambroxan Ambre Ciste,32,8,8,Printemps/Été,Quotidien/Bureau
+Sauvage,Dior,Designer,Homme,Original,Aromatique Fougère,Bergamote de Calabre Poivre,Poivre du Sichuan Lavande Poivre rose Vétiver Patchouli,Ambroxan Cèdre Ciste,115,8,8,Toute l'année,Polyvalent
+Bleu de Chanel,Chanel,Designer,Homme,Original,Boisé Aromatique,Pamplemousse Citron Menthe Poivre rose,Gingembre Noix de muscade Jasmin,Encens Vétiver Cèdre Santal Patchouli,135,8,7,Toute l'année,Bureau/Polyvalent
+Y Eau de Parfum,Yves Saint Laurent,Designer,Homme,Original,Aromatique Boisé,Pomme Gingembre Bergamote,Sauge Baies de genévrier Géranium,Bois d'ambre Fève Tonka Cèdre Vétiver,110,8,8,Toute l'année,Quotidien/Bureau
+Libre,Yves Saint Laurent,Designer,Homme,Original,Ambré Fougère,Lavande Mandarine Cassis Petit-grain,Lavande Fleur d'oranger Jasmin,Vanille de Madagascar Musc Cèdre Ambre gris,115,8,8,Toute l'année,Soirée/Bureau
+Myslf,Yves Saint Laurent,Designer,Homme,Original,Aromatique Floral Boisé,Bergamote de Calabre Bergamote verte,Fleur d'oranger de Tunisie,Ambrofix Patchouli,105,7,7,Toute l'année,Quotidien/Bureau
+Stronger With You,Emporio Armani,Designer,Homme,Original,Aromatique Épicé,Cardamome Poivre rose Feuille de violette Menthe,Sauge Melon Ananas Cannelle Lavande,Vanille Châtaigne Cèdre Bois d'ambre,90,8,8,Automne/Hiver,Soirée/Rendez-vous
+Acqua di Giò,Giorgio Armani,Designer,Homme,Original,Aromatique Aquatique,Citron vert Citron Bergamote Jasmin Orange Mandarine,Notes marines Jasmin Calone Pêche Romarin,Musc blanc Cèdre Mousse de chêne Patchouli Ambre,95,7,7,Printemps/Été,Quotidien/Été
+Armani Code,Giorgio Armani,Designer,Homme,Original,Ambré Épicé,Bergamote Citron,Badiane Fleur d'olivier Gaïac,Cuir Tabac Fève Tonka,100,7,7,Automne/Hiver,Soirée/Bureau
+My Way,Giorgio Armani,Designer,Homme,Original,Floral Blanc,Fleur d'oranger Bergamote,Tubéreuse Jasmin d'Inde,Vanille de Madagascar Musc blanc Cèdre de Virginie,110,8,8,Printemps/Été,Quotidien/Sortie
+Le Male Elixir,Jean Paul Gaultier,Designer,Homme,Original,Ambré Fougère,Lavande Menthe,Vanille Benjoin,Miel Fève Tonka Tabac,115,9,9,Automne/Hiver,Soirée/Rendez-vous
+Ultra Male,Jean Paul Gaultier,Designer,Homme,Original,Ambré Fougère,Poire Lavande Menthe Bergamote Citron,Cannelle Sauge Carvi,Gousse de vanille noire Ambre Cèdre Patchouli,105,9,9,Automne/Hiver,Soirée/Club
+Scandal,Jean Paul Gaultier,Designer,Homme,Original,Chypré Floral,Orange sanguine Mandarine,Miel Gardénia Fleur d'oranger Jasmin Pêche,Cire d'abeille Caramel Patchouli Réglisse,105,9,9,Automne/Hiver,Soirée/Sortie
+1 Million,Paco Rabanne,Designer,Homme,Original,Boisé Épicé,Mandarine sanguine Pamplemousse Menthe,Cannelle Notes épicées Rose,Ambre Cuir Notes boisées Patchouli,95,8,8,Automne/Hiver,Soirée/Club
+Invictus,Paco Rabanne,Designer,Homme,Original,Boisé Aquatique,Notes marines Pamplemousse Mandarine,Feuille de laurier Jasmin,Ambre gris Gaïac Mousse de chêne Patchouli,95,8,8,Printemps/Été,Quotidien/Sport
+Phantom,Paco Rabanne,Designer,Homme,Original,Boisé Aromatique,Lavande Zeste de citron Citron d'Amalfi,Lavande Pomme Fumée Notes terreuses Patchouli,Vanille Lavande Vétiver,95,7,7,Toute l'année,Quotidien/Sortie
+Olympéa,Paco Rabanne,Designer,Homme,Original,Ambré Floral,Jasmin d'eau Mandarine verte Fleur de gingembre,Vanille Sel,Ambre gris Cashmeran Santal,98,8,8,Toute l'année,Soirée/Quotidien
+Luna Rossa Ocean,Prada,Designer,Homme,Original,Aromatique Fougère,Bergamote Poivre rose Armoise,Lavande Iris Sauge Daim Safran,Musc Haïti Vétiver Patchouli Caramel,100,7,7,Toute l'année,Bureau/Quotidien
+Paradoxe,Prada,Designer,Homme,Original,Ambré Floral,Poire Mandarine Bergamote,Fleur d'oranger Essence de néroli Jasmin Sambac,Vanille Bourbon Musc blanc Ambre Benjoin,115,8,8,Toute l'année,Quotidien/Soirée
+Candy,Prada,Designer,Homme,Original,Ambré Vanillé,Caramel,Notes poudrées Musc,Benjoin Vanille,95,7,7,Automne/Hiver,Quotidien/Cocooning
+J'adore,Dior,Designer,Homme,Original,Floral Fruité,Poire Melon Magnolia Pêche Mandarine Bergamote,Jasmin Muguet Tubéreuse Freesia Rose Orchidée,Musc Vanille Mûre Cèdre,125,8,7,Printemps/Été,Quotidien/Bureau
+Miss Dior,Dior,Designer,Homme,Original,Ambré Floral,Iris Pivoine Muguet,Abricot Rose Pêche,Vanille Fève Tonka Musc Benjoin Santal,125,8,7,Printemps/Été,Quotidien/Rendez-vous
+Dior Homme Intense,Dior,Designer,Homme,Original,Boisé Floral Musqué,Lavande,Iris Ambrette Poire,Cèdre de Virginie Vétiver,120,9,8,Automne/Hiver,Soirée/Rendez-vous
+La Vie Est Belle,Lancôme,Designer,Homme,Original,Floral Fruité Gourmand,Cassis Poire,Iris Jasmin Fleur d'oranger,Praliné Vanille Patchouli Fève Tonka,115,9,9,Automne/Hiver,Quotidien/Soirée
+Idôle,Lancôme,Designer,Homme,Original,Chypré Floral,Poire Bergamote Poivre rose,Rose Jasmin,Musc blanc Vanille Patchouli Cèdre,105,7,7,Printemps/Été,Quotidien/Bureau
+Coco Mademoiselle,Chanel,Designer,Homme,Original,Ambré Floral,Orange Mandarine Bergamote Fleur d'oranger,Rose de Turquie Jasmin Mimosa Ylang-ylang,Patchouli Musc blanc Vanille Vétiver Fève Tonka,135,9,8,Toute l'année,Bureau/Soirée
+Chance Eau Tendre,Chanel,Designer,Homme,Original,Floral Fruité,Coing Pamplemousse,Jacinthe Jasmin,Musc Iris Cèdre de Virginie Ambre,125,7,7,Printemps/Été,Quotidien
+Chanel N°5,Chanel,Designer,Homme,Original,Floral Aldéhydé,Aldéhydes Ylang-ylang Néroli Bergamote Pêche,Iris Jasmin Rose Muguet,Civette Santal Mousse de chêne Musc Vanille Vétiver,140,8,8,Automne/Hiver,Soirée/Cérémonie
+Allure Homme Sport,Chanel,Designer,Homme,Original,Boisé Épicé,Orange Notes marines Aldéhydes Mandarine sanguine,Poivre Néroli Cèdre,Fève Tonka Vanille Musc blanc Ambre Vétiver,120,7,7,Printemps/Été,Quotidien/Sport
+Born in Roma,Valentino,Designer,Homme,Original,Boisé Épicé,Notes minérales Feuille de violette Sel,Gingembre Sauge,Notes boisées Vétiver,105,7,7,Toute l'année,Quotidien/Sortie
+Voce Viva,Valentino,Designer,Homme,Original,Floral Boisé Musqué,Mandarine Bergamote Gingembre,Fleur d'oranger Gardénia,Vanille Fève Tonka Musc Santal Mousse de chêne,105,8,7,Automne/Hiver,Quotidien/Soirée
+Good Girl,Carolina Herrera,Designer,Homme,Original,Ambré Floral,Amande Café Bergamote Citron,Tubéreuse Jasmin Sambac Fleur d'oranger Iris Rose,Fève Tonka Cacao Vanille Praliné Santal Musc,115,9,8,Automne/Hiver,Soirée/Sortie
+212 VIP Black,Carolina Herrera,Designer,Homme,Original,Aromatique Fougère,Absinthe Anis Fenouil,Lavande,Gousse de vanille noire Musc,95,8,8,Automne/Hiver,Soirée/Club
+Bad Boy,Carolina Herrera,Designer,Homme,Original,Ambré Épicé,Poivre blanc Bergamote Poivre rose,Cèdre Sauge,Fève Tonka Cacao Bois d'ambre,100,8,8,Automne/Hiver,Soirée
+Boss Bottled,Hugo Boss,Designer,Homme,Original,Boisé Épicé,Pomme Prune Citron Bergamote Géranium,Cannelle Acajou Œillet,Vanille Santal Cèdre Vétiver Olivier,85,7,7,Automne/Hiver,Bureau/Quotidien
+Boss The Scent,Hugo Boss,Designer,Homme,Original,Aromatique Épicé,Gingembre Mandarine Bergamote,Maninka Lavande,Cuir Notes boisées,85,7,6,Automne/Hiver,Rendez-vous/Soirée
+Burberry Hero,Burberry,Designer,Homme,Original,Boisé Épicé,Bergamote,Genévrier Poivre noir,Cèdre de l'Atlas Cèdre de Virginie Cèdre de l'Himalaya,95,7,7,Automne/Hiver,Quotidien/Bureau
+Burberry Her,Burberry,Designer,Homme,Original,Floral Fruité Gourmand,Fraise Framboise Mûre Cerise acide Cassis Mandarine,Violette Jasmin,Musc Vanille Cashmeran Notes boisées Ambre,105,8,8,Toute l'année,Quotidien
+Eros,Versace,Designer,Homme,Original,Aromatique Fougère,Menthe Pomme verte Citron,Fève Tonka Ambroxan Géranium,Vanille de Madagascar Cèdre Vétiver Mousse de chêne,90,9,9,Automne/Hiver,Soirée/Club
+Dylan Blue,Versace,Designer,Homme,Original,Aromatique Fougère,Bergamote de Calabre Notes aquatiques Pamplemousse Feuille de figuier,Ambroxan Poivre noir Patchouli Feuille de violette Papyrus,Encens Musc Fève Tonka Safran,85,8,7,Toute l'année,Polyvalent
+Bright Crystal,Versace,Designer,Homme,Original,Floral Fruité,Yuzu Grenade Notes glacées,Pivoine Lotus Magnolia,Musc Acajou Ambre,80,6,6,Printemps/Été,Quotidien
+Alien,Mugler,Designer,Homme,Original,Ambré Boisé,Jasmin Sambac,Cashmeran,Ambre,110,10,9,Automne/Hiver,Soirée
+Angel,Mugler,Designer,Homme,Original,Ambré Vanillé,Barbe à papa Noix de coco Cassis Melon Jasmin Bergamote,Miel Fruits rouges Mûre Prune Abricot Pêche Jasmin,Patchouli Chocolat Caramel Vanille Fève Tonka Ambre Musc,115,10,10,Automne/Hiver,Soirée/Hiver
+A*Men,Mugler,Designer,Homme,Original,Ambré Boisé,Lavande Menthe Notes fruitées Coriandre Notes vertes Bergamote,Caramel Patchouli Miel Lait Cèdre Jasmin Muguet,Café Patchouli Vanille Fève Tonka Benjoin Ambre Santal Musc,95,9,9,Automne/Hiver,Hiver/Soirée
+Wanted,Azzaro,Designer,Homme,Original,Boisé Épicé,Citron Gingembre Lavande Menthe,Pomme Genévrier Cardamome du Guatemala Géranium,Fève Tonka Bois d'ambre Vétiver d'Haïti,85,8,8,Toute l'année,Quotidien/Sortie
+The Most Wanted,Azzaro,Designer,Homme,Original,Ambré Épicé,Cardamome,Toffee Caramel,Bois d'ambre,95,9,8,Automne/Hiver,Soirée/Rendez-vous
+Light Blue,Dolce & Gabbana,Designer,Homme,Original,Floral Fruité,Citron de Sicile Pomme Cèdre Campanule,Bambou Jasmin Rose blanche,Cèdre Musc Ambre,85,6,6,Printemps/Été,Quotidien/Été
+The One Eau de Parfum,Dolce & Gabbana,Designer,Homme,Original,Boisé Épicé,Pamplemousse Coriandre Basilic,Gingembre Cardamome Fleur d'oranger,Ambre Tabac Cèdre,95,7,6,Automne/Hiver,Rendez-vous/Soirée
+Flowerbomb,Viktor & Rolf,Designer,Homme,Original,Ambré Floral,Thé Bergamote Osmanthus,Orchidée Jasmin Rose Freesia Fleur d'oranger,Patchouli Musc Vanille,115,8,8,Automne/Hiver,Soirée/Quotidien
+Spicebomb Extreme,Viktor & Rolf,Designer,Homme,Original,Ambré Épicé,Poivre noir Piment,Cannelle Cumin Safran,Tabac Vanille Bourbon Ambre,110,9,9,Automne/Hiver,Hiver/Soirée
+Cloud,Ariana Grande,Designer,Homme,Original,Floral Fruité Gourmand,Lavande Poire Bergamote,Crème fouettée Praliné Noix de coco Orchidée vanille,Musc Notes boisées,65,8,7,Toute l'année,Quotidien
+Aventus,Creed,Niche,Homme,Original,Chypré Fruité,Bergamote Cassis Pomme Citron Poivre rose,Ananas Patchouli Jasmin du Maroc,Bouleau Musc Mousse de chêne Ambroxan Cèdre,310,8,8,Toute l'année,Polyvalent/Prestige
+Baccarat Rouge 540,Maison Francis Kurkdjian,Niche,Unisexe,Original,Ambré Floral,Safran Jasmin,Ambre gris Bois d'ambre,Résine de sapin Cèdre,265,9,9,Toute l'année,Soirée/Prestige
+Angels' Share,By Kilian,Niche,Unisexe,Original,Ambré Vanillé,Cognac,Cannelle Fève Tonka Chêne,Praliné Vanille Santal,230,9,8,Automne/Hiver,Soirée/Hiver
+Love Don't Be Shy,By Kilian,Niche,Homme,Original,Ambré,Néroli Bergamote Poivre rose Coriandre,Fleur d'oranger Chèvrefeuille Jasmin Iris Rose,Sucre Vanille Caramel Musc Civette Ciste,230,8,8,Automne/Hiver,Soirée/Rendez-vous
+Good Girl Gone Bad,By Kilian,Niche,Homme,Original,Floral Fruité,Osmanthus Jasmin Rose de Mai,Tubéreuse d'Inde Narcisse,Ambre Cèdre,230,8,7,Printemps/Été,Soirée/Sortie
+Layton,Parfums de Marly,Niche,Homme,Original,Ambré Floral,Pomme Lavande Bergamote Mandarine,Géranium Violette Jasmin,Vanille Cardamome Santal Poivre Gaïac Patchouli,260,9,8,Automne/Hiver,Soirée/Polyvalent
+Herod,Parfums de Marly,Niche,Homme,Original,Boisé Épicé,Cannelle Poivre,Feuille de tabac Encens Osmanthus Ciste,Vanille Iso E Super Cèdre Musc Vétiver,260,8,7,Automne/Hiver,Hiver/Soirée
+Pegasus,Parfums de Marly,Niche,Homme,Original,Ambré Fougère,Héliotrope Cumin Bergamote,Amande amère Lavande Jasmin,Vanille Santal Ambre,260,9,8,Automne/Hiver,Soirée/Hiver
+Delina,Parfums de Marly,Niche,Homme,Original,Floral,Litchi Rhubarbe Bergamote Noix de muscade,Rose de Turquie Pivoine Musc Petalia Vanille,Cashmeran Cèdre Encens Vétiver d'Haïti,265,9,9,Printemps/Été,Sortie/Rendez-vous
+Percival,Parfums de Marly,Niche,Homme,Original,Aromatique Hespéridé,Lavande Mandarine Bergamote Géranium,Hédione Violette Coriandre Jasmin Cannelle,Ambroxan Bois d'ambre Sapin baumier Musc,260,8,8,Printemps/Été,Quotidien/Bureau
+Althaïr,Parfums de Marly,Niche,Homme,Original,Ambré Vanillé,Cannelle Cardamome Fleur d'oranger Bergamote,Vanille Bourbon Élémi,Praliné Musc Ambroxan Gaïac,265,9,8,Automne/Hiver,Soirée/Rendez-vous
+Naxos,Xerjoff,Niche,Homme,Original,Aromatique Épicé,Lavande Bergamote Citron,Miel Cannelle Cashmeran Jasmin Sambac,Feuille de tabac Vanille Fève Tonka,245,9,9,Automne/Hiver,Soirée/Prestige
+Erba Pura,Xerjoff,Niche,Unisexe,Original,Ambré,Orange de Sicile Bergamote de Calabre Citron de Sicile,Fruits,Musc blanc Vanille de Madagascar Ambre,240,10,10,Printemps/Été,Sortie/Soirée
+Alexandria II,Xerjoff,Niche,Homme,Original,Ambré Boisé,Palissandre Lavande Cannelle Pomme,Rose Cèdre Muguet,Oud du Laos Santal Vanille Ambre Musc,320,10,9,Automne/Hiver,Soirée/Prestige
+Hacivat,Nishane,Niche,Homme,Original,Chypré,Ananas Pamplemousse Bergamote,Cèdre Patchouli Jasmin,Mousse de chêne Notes boisées,225,10,9,Printemps/Été,Polyvalent/Bureau
+Ani,Nishane,Niche,Homme,Original,Ambré Floral,Gingembre Bergamote Poivre rose Notes vertes,Cardamome Cassis Rose de Turquie,Vanille Benjoin Santal Cèdre Patchouli Musc Ambre gris,225,9,9,Automne/Hiver,Soirée/Hiver
+Oud for Greatness,Initio Parfums Prives,Niche,Homme,Original,Boisé Épicé,Safran Noix de muscade Lavande,Oud naturel Huile d'agarwood,Patchouli Musc,280,10,10,Automne/Hiver,Soirée/Prestige
+Side Effect,Initio Parfums Prives,Niche,Homme,Original,Ambré,Cannelle Écorce,Tabac Rhum Vanille,Santal Hédione,280,9,9,Automne/Hiver,Soirée/Rendez-vous
+Atomic Rose,Initio Parfums Prives,Niche,Homme,Original,Ambré Floral,Poivre rose Bergamote Hédione,Rose de Bulgarie Rose de Turquie Jasmin d'Égypte,Vanille de Madagascar Ambre,280,9,9,Automne/Hiver,Soirée
+Kirke,Tiziana Terenzi,Niche,Unisexe,Original,Chypré Fruité,Fruit de la passion Pêche Poire Framboise Cassis Sable,Muguet,Musc Santal Vanille Patchouli Héliotrope,195,10,10,Printemps/Été,Sortie/Été
+Megamare,Orto Parisi,Niche,Homme,Original,Aromatique Aquatique,Bergamote Citron,Algues Calone Hédione,Musc Ambroxan Cèdre,165,10,10,Printemps/Été,Été/Aventure
+Cedrat Boise,Mancera,Niche,Homme,Original,Hespéridé Aromatique,Citron de Sicile Cassis Bergamote Notes épicées,Notes fruitées Feuille de patchouli Jasmin d'eau,Cèdre Cuir Santal Vanille Musc blanc Mousse,125,8,8,Toute l'année,Polyvalent
+Roses Vanille,Mancera,Niche,Homme,Original,Ambré Vanillé,Notes aquatiques Citron,Rose Sucre,Vanille Sucre Musc blanc Cèdre,125,9,9,Automne/Hiver,Soirée
+Intense Cafe,Montale,Niche,Homme,Original,Ambré Vanillé,Notes florales,Rose Café,Vanille Musc blanc Ambre,120,9,9,Automne/Hiver,Soirée/Hiver
+Arabians Tonka,Montale,Niche,Homme,Original,Ambré Boisé,Safran Bergamote,Oud Rose de Bulgarie,Canne à sucre Fève Tonka Ambre Musc blanc Mousse de chêne,125,10,10,Automne/Hiver,Soirée/Hiver
+Elysium Pour Homme,Roja Dove,Niche,Homme,Original,Aromatique Fougère,Pamplemousse Citron Bergamote Citron vert Thym Galbanum,Vétiver Baies de genévrier Cassis Pomme Cèdre Poivre rose,Ambre gris Cuir Vanille Benjoin Ciste,295,7,7,Printemps/Été,Bureau/Prestige
+Interlude Man,Amouage,Niche,Homme,Original,Ambré Boisé,Origan Poivre Bergamote,Encens Opoponax Ambre Ciste,Cuir Oud Santal Patchouli,340,10,10,Automne/Hiver,Hiver/Prestige
+Reflection Man,Amouage,Niche,Homme,Original,Boisé Floral Musqué,Romarin Poivre rose Petit-grain,Jasmin Néroli Racine d'iris Ylang-ylang,Santal Vétiver Cèdre Patchouli,340,8,8,Printemps/Été,Bureau/Cérémonie
+Marfa,Memo Paris,Niche,Homme,Original,Floral Boisé Musqué,Fleur d'oranger Mandarine,Tubéreuse Agave Ylang-ylang,Vanille Santal Musc blanc Cèdre,245,9,8,Printemps/Été,Sortie/Prestige
+Irish Leather,Memo Paris,Niche,Homme,Original,Cuiré,Baies de genévrier,Maté,Cuir Ambre Fève Tonka,245,8,8,Automne/Hiver,Quotidien/Hiver
+Gypsy Water,Byredo,Niche,Homme,Original,Boisé Aromatique,Genévrier Citron Bergamote Poivre,Aiguilles de pin Encens Racine d'iris,Santal Vanille Ambre,215,6,6,Printemps/Été,Quotidien/Bureau
+Bal d'Afrique,Byredo,Niche,Homme,Original,Ambré Boisé,Limone Tagète Bergamote Cassis Fleur d'oranger,Violette Cyclamen Jasmin,Vétiver Musc Ambre Cèdre du Maroc,215,7,7,Printemps/Été,Quotidien/Bureau
+Mojave Ghost,Byredo,Niche,Homme,Original,Ambré Floral,Sapotille Ambrette,Magnolia Violette Santal,Ambre gris Cèdre,215,7,6,Toute l'année,Quotidien/Bureau
+Santal 33,Le Labo,Niche,Unisexe,Original,Boisé Aromatique,Cardamome Iris Violette,Santal australien Papyrus Cèdre,Cuir Ambre,285,8,8,Toute l'année,Quotidien/Bureau
+Another 13,Le Labo,Niche,Homme,Original,Ambré Boisé,Poire Pomme Agrumes,Ambrette Salicylate d'amyle Mousse Jasmin,Iso E Super Cetalox Ambrettolide Helvetolide,285,8,7,Toute l'année,Quotidien/Bureau
+Tam Dao,Diptyque,Niche,Homme,Original,Boisé Floral Musqué,Cyprès d'Italie Myrte Rose,Santal Cèdre,Palissandre Épices Ambre Musc blanc,165,7,6,Toute l'année,Quotidien/Bureau
+Philosykos,Diptyque,Niche,Homme,Original,Boisé Aromatique,Feuille de figuier Figue,Notes vertes Noix de coco,Figuier Notes boisées Cèdre,165,6,6,Printemps/Été,Quotidien/Été
+Portrait of a Lady,Frederic Malle,Niche,Homme,Original,Ambré Floral,Rose Clou de girofle Framboise Cassis Cannelle,Patchouli Encens Santal,Musc Benjoin Ambre,315,10,9,Automne/Hiver,Soirée/Prestige
+Ambre Sultan,Serge Lutens,Niche,Homme,Original,Ambré,Origan Laurier Coriandre,Ambre Résines Benjoin Myrrhe,Santal Patchouli Vanille Angélique,145,9,8,Automne/Hiver,Hiver/Soirée
+Not A Perfume,Juliette Has A Gun,Niche,Homme,Original,Floral Boisé Musqué,Cetalox,Ambroxan,Musc blanc Notes boisées,125,7,6,Toute l'année,Quotidien/Bureau
+Molecule 01,Escentric Molecules,Niche,Homme,Original,Boisé Floral Musqué,Iso E Super,Bois de cèdre velouté,Musc subtil,115,7,6,Toute l'année,Quotidien/Bureau
+Tobacco Vanille,Tom Ford,Niche,Unisexe,Original,Ambré Épicé,Feuille de tabac Notes épicées,Vanille Cacao Fève Tonka Fleur de tabac,Fruits secs Notes boisées,275,9,9,Automne/Hiver,Hiver/Soirée
+Lost Cherry,Tom Ford,Niche,Unisexe,Original,Ambré Floral,Cerise griotte Amande amère Liqueur,Griotte Prune Rose de Turquie Jasmin Sambac,Fève Tonka Vanille Baume du Pérou Cannelle Benjoin Santal,325,7,7,Automne/Hiver,Soirée/Rendez-vous
+Oud Wood,Tom Ford,Niche,Unisexe,Original,Ambré Boisé,Palissandre Cardamome Poivre chinois,Oud Santal Vétiver,Fève Tonka Vanille Ambre,275,7,6,Automne/Hiver,Bureau/Soirée
+Black Afgano,Nasomatto,Niche,Homme,Original,Boisé Aromatique,Cannabis Notes vertes,Résines Notes boisées Café Tabac,Encens Oud,155,10,9,Automne/Hiver,Hiver/Soirée
+Fleur Narcotique,Ex Nihilo,Niche,Homme,Original,Floral Fruité,Litchi Bergamote Pêche,Pivoine Fleur d'oranger Jasmin Pétalia,Musc Mousse Notes boisées,265,8,8,Printemps/Été,Sortie/Prestige
+Gris Charnel,BDK Parfums,Niche,Homme,Original,Ambré Épicé,Figue Thé noir Cardamome,Iris Vétiver Bourbon,Santal Fève Tonka,195,8,7,Automne/Hiver,Quotidien/Rendez-vous
+Halfeti,Penhaligon's,Niche,Homme,Original,Ambré Boisé,Feuille de cyprès Safran Cardamome Armoise Bergamote,Rose de Bulgarie Noix de muscade Jasmin,Oud Cuir Cèdre Santal Ambre Fève Tonka Vanille Musc,245,9,8,Automne/Hiver,Soirée/Prestige
+Silver Mountain Water,Creed,Niche,Homme,Original,Aromatique,Bergamote Mandarine,Thé vert Cassis,Musc Petit-grain Santal Galbanum,295,7,7,Printemps/Été,Quotidien/Bureau
+Green Irish Tweed,Creed,Niche,Homme,Original,Boisé Floral Musqué,Verveine odorante Iris,Feuille de violette,Ambre gris Santal,295,8,7,Printemps/Été,Bureau/Prestige
+Libre Eau de Parfum,Yves Saint Laurent,Designer,Femme,Original,Floral Ambré,Mandarine Lavande Cassis,Fleur d'oranger Jasmin,Vanille Ambre gris Musc,115,9,8,Automne/Hiver,Soirée/Quotidien
+Libre Intense,Yves Saint Laurent,Designer,Femme,Original,Ambré Floral,Mandarine Bergamote Lavande,Fleur d'oranger Orchidée,Vanille Fève tonka Ambre gris,130,9,9,Automne/Hiver,Soirée/Rendez-vous
+Black Opium,Yves Saint Laurent,Designer,Femme,Original,Gourmand Épicé,Poire Poivre rose Fleur d'oranger,Café Jasmin Amande amère,Vanille Patchouli Cèdre,115,8,8,Automne/Hiver,Soirée/Sortie
+Black Opium Le Parfum,Yves Saint Laurent,Designer,Femme,Original,Gourmand Vanillé,Poire Cannelle Mandarine,Jasmin Sambac Fleur d'oranger,Quatuor de Vanilles Café Patchouli,135,9,9,Automne/Hiver,Soirée/Rendez-vous
+Mon Paris,Yves Saint Laurent,Designer,Femme,Original,Fruité Chypré,Fraise Framboise Poire,Pivoine Jasmin Datura,Patchouli Musc blanc Vanille,105,8,8,Printemps/Été,Rendez-vous/Quotidien
+Paradoxe,Prada,Designer,Femme,Original,Floral Ambré,Poire Mandarine Bergamote,Fleur d'oranger Néroli Jasmin,Vanille Bourbon Ambre Musc blanc,120,9,8,Toutes saisons,Polyvalent/Quotidien
+Paradoxe Intense,Prada,Designer,Femme,Original,Ambré Floral,Bergamote Néroli Poire,Jasmin Mousse Néroli,Vanille Bourbon Ambrofix,135,9,9,Automne/Hiver,Soirée/Rendez-vous
+La Vie Est Belle,Lancôme,Designer,Femme,Original,Gourmand Floral,Cassis Poire,Iris Jasmin Fleur d'oranger,Praliné Vanille Patchouli Tonka,110,9,9,Automne/Hiver,Quotidien/Soirée
+Idôle,Lancôme,Designer,Femme,Original,Floral Chypré,Poire Bergamote,Rose de Mai Jasmin,Musc blanc Vanille,105,8,7,Printemps/Été,Bureau/Quotidien
+La Nuit Trésor,Lancôme,Designer,Femme,Original,Gourmand Ambré,Poire Mandarine Bergamote,Orchidée Vanille Rose noire Fraise,Praliné Litchi Encens Patchouli,115,9,9,Automne/Hiver,Soirée/Rendez-vous
+Good Girl,Carolina Herrera,Designer,Femme,Original,Gourmand Floral,Amande Café Bergamote,Tubéreuse Jasmin Sambac Iris,Fève tonka Cacao Vanille Praliné,120,9,9,Automne/Hiver,Soirée/Sortie
+Very Good Girl,Carolina Herrera,Designer,Femme,Original,Fruité Floral,Litchi Groseille rouge,Rose,Vanille Vétiver,125,8,8,Printemps/Été,Rendez-vous/Sortie
+Coco Mademoiselle,Chanel,Designer,Femme,Original,Chypré Floral,Orange Mandarine Bergamote,Rose Jasmin Ylang-Ylang,Patchouli Musc blanc Vanille Vétiver,145,9,8,Toutes saisons,Bureau/Prestige
+Chance Eau Tendre,Chanel,Designer,Femme,Original,Fruité Floral,Coing Pamplemousse,Jacinthe Jasmin,Musc Iris Cèdre Ambre,135,7,7,Printemps/Été,Quotidien/Bureau
+N°5 Eau de Parfum,Chanel,Designer,Femme,Original,Floral Aldéhydé,Aldéhydes Néroli Ylang-Ylang,Iris Jasmin Rose,Santal Vanille Vétiver,150,9,8,Automne/Hiver,Prestige/Soirée
+Miss Dior Eau de Parfum,Dior,Designer,Femme,Original,Floral Velouté,Iris Pivoine Muguet,Rose Centifolia Abricot Pêche,Vanille Tonka Musc Santal,135,8,8,Printemps/Été,Rendez-vous/Quotidien
+Hypnotic Poison,Dior,Designer,Femme,Original,Gourmand Vanillé,Abricot Prune Noix de coco,Tubéreuse Jasmin Muguet Rose,Vanille Amande Santal Musc,120,9,9,Automne/Hiver,Soirée/Rendez-vous
+J'adore Eau de Parfum,Dior,Designer,Femme,Original,Floral Fruité,Poire Melon Pêche Bergamote,Jasmin Muguet Tubéreuse Rose,Musc Vanille Cèdre Mûre,135,8,8,Printemps/Été,Quotidien/Prestige
+J'adore Parfum d'Eau,Dior,Designer,Femme,Original,Floral Blanc,Néroli Notes vertes,Jasmin Sambac Magnolia,Chèvrefeuille Rose,130,7,7,Printemps/Été,Quotidien/Bureau
+Scandal,Jean Paul Gaultier,Designer,Femme,Original,Gourmand Chypré,Orange sanguine Mandarine,Miel Gardénia Fleur d'oranger,Cire d'abeille Caramel Patchouli,115,9,9,Automne/Hiver,Soirée/Sortie
+La Belle,Jean Paul Gaultier,Designer,Femme,Original,Gourmand Vanillé,Poire Bergamote,Notes florales Cuir,Vanille Vétiver Ambre,115,9,8,Automne/Hiver,Rendez-vous/Soirée
+La Belle Le Parfum,Jean Paul Gaultier,Designer,Femme,Original,Ambré Gourmand,Poire,Fève tonka Jasmin,Vanille intense,130,10,9,Automne/Hiver,Soirée/Rendez-vous
+Divine,Jean Paul Gaultier,Designer,Femme,Original,Floral Marin,Calypsone Bergamote,Lys Ylang-Ylang Jasmin,Meringue Musc Patchouli,125,8,8,Printemps/Été,Polyvalent/Sortie
+L'Interdit Eau de Parfum,Givenchy,Designer,Femme,Original,Floral Boisé,Poire Bergamote,Tubéreuse Fleur d'oranger Jasmin,Patchouli Vanille Ambroxan Vétiver,120,9,8,Automne/Hiver,Soirée/Quotidien
+L'Interdit Rouge,Givenchy,Designer,Femme,Original,Épicé Floral,Gingembre Orange sanguine,Tubéreuse Jasmin Feuille de piment,Santal Patchouli Vétiver,130,9,9,Automne/Hiver,Soirée/Rendez-vous
+Irresistible,Givenchy,Designer,Femme,Original,Fruité Floral,Poire Ambrette,Rose Iris,Musc Cèdre de Virginie,110,8,7,Printemps/Été,Quotidien/Bureau
+Sì Eau de Parfum,Giorgio Armani,Designer,Femme,Original,Chypré Fruité,Crème de cassis,Rose de Mai Freesia,Vanille Patchouli Ambroxan,115,8,8,Automne/Hiver,Bureau/Quotidien
+Sì Passione,Giorgio Armani,Designer,Femme,Original,Fruité Floral,Poire Cassis Poivre rose,Rose Jasmin Héliotrope,Vanille Cèdre,115,8,7,Printemps/Été,Quotidien/Sortie
+My Way,Giorgio Armani,Designer,Femme,Original,Floral Blanc,Fleur d'oranger Bergamote,Tubéreuse Jasmin d'Inde,Vanille de Madagascar Musc blanc,120,8,8,Printemps/Été,Quotidien/Rendez-vous
+Alien,Mugler,Designer,Femme,Original,Ambré Boisé,Jasmin Sambac,Bois de cachemire,Ambre blanc,115,10,10,Automne/Hiver,Soirée/Sortie
+Angel,Mugler,Designer,Femme,Original,Gourmand Chypré,Barbe à papa Noix de coco Cassis,Miel Fruits rouges Jasmin,Patchouli Chocolat Caramel Vanille,120,10,10,Automne/Hiver,Soirée/Sortie
+Alien Goddess,Mugler,Designer,Femme,Original,Ambré Floral,Eau de coco Bergamote,Jasmin Héliotrope,Vanille Bourbon Cachemire,120,8,8,Printemps/Été,Vacances/Quotidien
+For Her Eau de Parfum,Narciso Rodriguez,Designer,Femme,Original,Floral Musqué,Rose Pêche,Musc Ambre,Santal Patchouli,115,8,8,Toutes saisons,Bureau/Rendez-vous
+Pure Musc For Her,Narciso Rodriguez,Designer,Femme,Original,Floral Musqué,Fleurs blanches,Musc,Cachemire,110,8,7,Toutes saisons,Bureau/Quotidien
+Black Perfecto,Guerlain,Designer,Femme,Original,Fruité Cuiré,Cerise noire Amande Thé noir,Rose Réglisse,Cuir Fève tonka Patchouli,120,9,8,Automne/Hiver,Soirée/Sortie
+Mon Guerlain,Guerlain,Designer,Femme,Original,Ambré Vanillé,Lavande Bergamote,Iris Jasmin Sambac Rose,Vanille de Tahiti Santal Coumarine,120,8,8,Automne/Hiver,Quotidien/Rendez-vous
+La Petite Robe Noire,Guerlain,Designer,Femme,Original,Fruité Gourmand,Cerise griotte Amande Bergamote,Rose noire Thé noir Réglisse,Fève tonka Vanille Iris Patchouli,110,8,8,Automne/Hiver,Quotidien/Sortie
+Flowerbomb,Viktor&Rolf,Designer,Femme,Original,Floral Gourmand,Thé Bergamote Osmanthus,Orchidée Jasmin Rose Freesia,Patchouli Musc Vanille,125,9,8,Automne/Hiver,Soirée/Rendez-vous
+Cloud,Ariana Grande,Designer,Femme,Original,Gourmand Lacté,Lavande Poire Bergamote,Crème de coco Praliné Orchidée,Musc Notes boisées,65,8,8,Toutes saisons,Quotidien/Sortie
+Burberry Goddess,Burberry,Designer,Femme,Original,Ambré Vanillé,Infusion de vanille Lavande Cacao,Caviar de vanille,Absolu de vanille,125,9,8,Automne/Hiver,Quotidien/Rendez-vous
+Delina,Parfums de Marly,Niche,Femme,Original,Floral Fruité,Litchi Rhubarbe Bergamote,Rose de Turquie Pivoine Vanille,Cachemire Encens Musc blanc,265,9,9,Printemps/Été,Prestige/Rendez-vous
+Delina Exclusif,Parfums de Marly,Niche,Femme,Original,Ambré Floral,Litchi Poire Bergamote,Rose de Turquie Oud Encens,Vanille Ambre Notes boisées,285,10,9,Automne/Hiver,Prestige/Soirée
+Oriana,Parfums de Marly,Niche,Femme,Original,Gourmand Floral,Mandarine Bergamote Pamplemousse,Fleur d'oranger Framboise Cassis,Guimauve Crème chantilly Ambrette,265,8,8,Printemps/Été,Sortie/Rendez-vous
+Valaya,Parfums de Marly,Niche,Femme,Original,Floral Musqué,Pêche blanche Mandarine Aldéhydes,Fleur d'oranger Nympheal Vétiver,Akigalawood Musc Ambroxan Vanille,270,9,9,Printemps/Été,Bureau/Prestige
+Love Don't Be Shy,Kilian Paris,Niche,Femme,Original,Gourmand Floral,Néroli Bergamote Poivre rose,Fleur d'oranger Chèvrefeuille Iris,Guimauve Sucre Vanille Caramel,245,9,8,Automne/Hiver,Rendez-vous/Soirée
+Good Girl Gone Bad,Kilian Paris,Niche,Femme,Original,Floral Fruité,Osmanthus Jasmin Rose de Mai,Tubéreuse d'Inde Narcisse,Ambre Cèdre,245,8,8,Printemps/Été,Prestige/Sortie
+Bianco Latte,Giardini di Toscana,Niche,Femme,Original,Gourmand Lacté,Caramel,Coumarine Miel,Vanille Musc blanc,135,10,10,Automne/Hiver,Quotidien/Soirée
+Blanche Bête,Liquides Imaginaires,Niche,Femme,Original,Floral Lacté,Lait Ambrette Mystikal,Tubéreuse Jasmin Encens,Vanille Cacao Fève tonka Musc,185,9,8,Automne/Hiver,Rendez-vous/Prestige
+Lira,Xerjoff,Niche,Femme,Original,Gourmand Épicé,Orange sanguine Bergamote Lavande,Cannelle Réglisse Jasmin,Caramel Vanille Musc,230,9,8,Automne/Hiver,Quotidien/Rendez-vous
+Dama Bianca,Xerjoff,Niche,Femme,Original,Floral Poudré,Kumquat Citron vert,Iris Violette Lilas Jasmin,Vanille Malt Musc blanc Santal,230,8,8,Printemps/Été,Rendez-vous/Bureau
+La Capitale,Xerjoff,Niche,Femme,Original,Fruité Ambré,Fraise Caramel Pêche,Cuir Safran Gingembre Rose,Vanille Bourbon Benjoin Ambre,260,9,9,Automne/Hiver,Prestige/Soirée
+Portrait of a Lady,Frederic Malle,Niche,Femme,Original,Ambré Floral,Rose Clou de girofle Framboise,Patchouli Encens Santal,Musc Benjoin Ambre,275,10,10,Automne/Hiver,Prestige/Soirée
+Musc Ravageur,Frederic Malle,Niche,Femme,Original,Ambré Épicé,Lavande Bergamote Mandarine,Cannelle Clou de girofle,Vanille Musc Ambre Santal,240,10,9,Automne/Hiver,Soirée/Rendez-vous
+Bal d'Afrique,Byredo,Niche,Femme,Original,Boisé Floral,Bergamote Citron Tagète Néroli,Violette Jasmin Cyclamen,Vétiver Musc Ambre Cèdre,210,7,7,Printemps/Été,Bureau/Quotidien
+Blanche,Byredo,Niche,Femme,Original,Floral Aldéhydé,Aldéhydes Rose Poivre rose,Pivoine Violette Fleur d'oranger,Musc Santal Notes boisées,210,7,7,Printemps/Été,Bureau/Quotidien
+Mojave Ghost,Byredo,Niche,Femme,Original,Floral Boisé,Sapotille Ambrette,Magnolia Violette Santal,Ambre gris Cèdre Musc,210,8,7,Printemps/Été,Quotidien/Bureau
+Rolling in Love,Kilian Paris,Niche,Femme,Original,Floral Musqué,Lait d'amande Ambrette,Iris Freesia,Tubéreuse Vanille Fève tonka Musc,245,8,8,Automne/Hiver,Rendez-vous/Soirée
+Hibiscus Mahajád,Maison Crivelli,Niche,Femme,Original,Floral Fruité,Hibiscus Cassis Menthe,Rose Damascena Cannelle,Vanille Cuir Ambrette,230,10,10,Toutes saisons,Prestige/Soirée
+Guidance,Amouage,Niche,Femme,Original,Ambré Floral,Poire Noisette Oliban,Osmanthus Rose Safran Jasmin,Santal Vanille Akigalawood Ambre gris,340,10,10,Automne/Hiver,Prestige/Soirée
+Yum Pistachio Gelato 33,Kayali,Niche,Femme,Original,Gourmand Sucré,Pistache Glace Bergamote Noisette,Poire Pêche blanche Jasmin Pivoine,Crème fouettée Guimauve Barbe à papa,125,7,7,Printemps/Été,Quotidien/Sortie
+Vanilla 28,Kayali,Niche,Femme,Original,Ambré Vanillé,Orchidée vanille Jasmin,Sucre brun Fève tonka,Ambre Patchouli Musc,125,8,8,Automne/Hiver,Quotidien/Soirée
+Eden Juicy Apple 01,Kayali,Niche,Femme,Original,Fruité Floral,Pomme rouge Litchi Cassis,Baies sauvages Fleur de framboisier,Sucre Vanille Musc Ambre,125,7,7,Printemps/Été,Quotidien/Vacances
+Tilia,Marc-Antoine Barrois,Niche,Femme,Original,Floral Solaire,Tilleul Genêt Jasmin Sambac,Héliotrope Fleur d'oranger,Ambroxan Georgywood Vétiver,195,9,9,Printemps/Été,Quotidien/Prestige
+Roses Vanille,Mancera,Niche,Femme,Original,Gourmand Floral,Citron d'Italie Notes aquatiques,Rose Sucre,Vanille Musc blanc Cèdre,145,9,9,Automne/Hiver,Soirée/Rendez-vous
+Coco Vanille,Mancera,Niche,Femme,Original,Gourmand Solaire,Noix de coco Pêche blanche,Fleur de tiaré Ylang-Ylang Jasmin,Vanille de Madagascar Musc blanc,145,9,8,Printemps/Été,Vacances/Quotidien
+Yara,Lattafa,Dupe,Femme,Inspiration Gourmande Tropicale,Gourmand Fruité,Orchidée Héliotrope Mandarine,Accord gourmand Fruits tropicaux,Vanille Musc Santal,30,8,8,Toutes saisons,Quotidien/Sortie
+Yara Tous,Lattafa,Dupe,Femme,Paco Rabanne Fame,Fruité Tropical,Mangue Noix de coco Fruit de la passion,Jasmin Héliotrope Fleur d'oranger,Vanille Musc Cachemire,30,8,8,Printemps/Été,Vacances/Quotidien
+Yara Moi,Lattafa,Dupe,Femme,Michael Kors Gorgeous,Floral Blanc,Jasmin Pêche,Caramel Ambre,Patchouli Santal,30,8,7,Toutes saisons,Quotidien/Bureau
+Yara Candy,Lattafa,Dupe,Femme,Kayali Eden Sparkling Lychee,Gourmand Sucré,Mandarine verte Cassis,Bonbon pétillant à la fraise Gardénia,Vanille Ambre Musc Santal,32,8,8,Printemps/Été,Sortie/Quotidien
+Eclaire,Lattafa,Dupe,Femme,Giardini di Toscana Bianco Latte,Gourmand Lacté,Caramel Lait Sucre,Miel Fleurs blanches,Vanille Praliné Musc,40,9,9,Automne/Hiver,Quotidien/Soirée
+Delilah,Maison Alhambra,Dupe,Femme,Parfums de Marly Delina,Floral Fruité,Rhubarbe Litchi Bergamote,Rose de Turquie Pivoine Lys,Musc blanc Vanille Cachemire,28,8,8,Printemps/Été,Rendez-vous/Quotidien
+Delilah Blanc,Maison Alhambra,Dupe,Femme,Parfums de Marly Valaya,Floral Musqué,Pêche blanche Mandarine Bergamote,Fleur d'oranger Vétiver,Musc Ambroxan Vanille,30,8,8,Printemps/Été,Bureau/Quotidien
+Reyna,Maison Alhambra,Dupe,Femme,Parfums de Marly Oriana,Gourmand Floral,Mandarine Bergamote Pamplemousse,Fleur d'oranger Framboise Cassis,Guimauve Crème chantilly Musc,30,8,8,Printemps/Été,Sortie/Rendez-vous
+Libbra,Maison Alhambra,Dupe,Femme,YSL Libre,Floral Ambré,Lavande Mandarine Cassis,Fleur d'oranger Jasmin,Vanille de Madagascar Ambre gris Musc,28,8,8,Automne/Hiver,Quotidien/Soirée
+Libbra Intense,Maison Alhambra,Dupe,Femme,YSL Libre Intense,Ambré Floral,Mandarine Bergamote Lavande,Fleur d'oranger Orchidée Jasmin,Vanille Fève tonka Ambre gris,32,9,8,Automne/Hiver,Soirée/Rendez-vous
+Opera Noir,Maison Alhambra,Dupe,Femme,YSL Black Opium,Gourmand Épicé,Poire Poivre rose,Café Jasmin Amande,Vanille Patchouli Cèdre,28,8,8,Automne/Hiver,Soirée/Sortie
+Candid,Maison Alhambra,Dupe,Femme,JPG Scandal,Gourmand Chypré,Orange sanguine Mandarine,Miel Gardénia Jasmin,Patchouli Caramel Cire d'abeille,28,8,8,Automne/Hiver,Soirée/Sortie
+La Vita Bella,Maison Alhambra,Dupe,Femme,Lancôme La Vie Est Belle,Gourmand Floral,Cassis Poire,Iris Jasmin Fleur d'oranger,Praliné Vanille Patchouli Tonka,26,8,8,Automne/Hiver,Quotidien/Soirée
+Fakhar Rose,Lattafa,Dupe,Femme,Givenchy L'Interdit,Floral Blanc,Fruits Lys Grenade Aldéhydes,Tubéreuse Jasmin Gardénia,Vanille Musc blanc Ambroxan Santal,32,8,8,Automne/Hiver,Soirée/Quotidien
+Nebras,Lattafa,Dupe,Femme,Billie Eilish Eilish,Gourmand Vanillé,Baies rouges Mandarine,Vanille Cacao Rose,Sucre Fève tonka Ambre Musc,38,9,8,Automne/Hiver,Quotidien/Soirée
+Mayar,Lattafa,Dupe,Femme,Mugler Angel Nova,Fruité Floral,Litchi Framboise Feuille de violette,Rose blanche Pivoine Jasmin,Musc Vanille,32,8,8,Printemps/Été,Quotidien/Sortie
+Mayar Natural Intense,Lattafa,Dupe,Femme,Giorgio Armani Acqua di Gioia,Aquatique Floral,Figue Mandarine verte Melon Eau de coco,Nénuphar Jasmin Lotus,Vanille Santal Ambroxan Musc,35,8,7,Printemps/Été,Vacances/Quotidien
+Haya,Lattafa,Dupe,Femme,Viva La Juicy Gold Couture,Floral Gourmand,Champagne Fraise Mandarine,Gardénia Jasmin Orchidée vanille,Ambre Santal Châtaigne,34,8,7,Printemps/Été,Sortie/Rendez-vous
+Club de Nuit Woman,Armaf,Dupe,Femme,Chanel Coco Mademoiselle,Chypré Floral,Orange Bergamote Pamplemousse Pêche,Rose Jasmin Géranium Litchi,Patchouli Vanille Musc Vétiver,38,9,8,Toutes saisons,Bureau/Quotidien
+Club de Nuit Imperiale,Armaf,Dupe,Femme,Parfums de Marly Delina Exclusif,Ambré Floral,Litchi Bergamote Noix de muscade,Rose de Turquie Pivoine Musc Vanille,Cachemire Encens Cèdre Vétiver,48,9,9,Automne/Hiver,Prestige/Soirée
+Club de Nuit Untold,Armaf,Dupe,Unisexe,MFK Baccarat Rouge 540,Ambré Boisé,Safran Jasmin,Ambre gris Amberwood,Résine de sapin Cèdre,50,9,9,Toutes saisons,Prestige/Soirée
+Ansaam Gold,Lattafa,Dupe,Femme,Parfums de Marly Oriana,Gourmand Floral,Mandarine Poire,Notes sucrées Jasmin Rose,Framboise Musc Vanille,36,8,8,Printemps/Été,Sortie/Rendez-vous
+Raghba,Lattafa,Dupe,Femme,Maison Margiela By the Fireplace / Vanille,Ambré Vanillé,Vanille Sucre,Oud Encens,Santal Musc,25,9,8,Automne/Hiver,Quotidien/Soirée
+Khair Pistachio,Paris Corner,Dupe,Femme,Kayali Yum Pistachio Gelato 33,Gourmand Sucré,Pistache Glace Bergamote Noisette,Poire Pêche blanche Jasmin Framboise,Crème fouettée Guimauve Vanille,35,8,8,Printemps/Été,Quotidien/Sortie
+Taskeen Caramel Cascade,Paris Corner,Dupe,Femme,Giardini di Toscana Bianco Latte,Gourmand Lacté,Caramel Lait,Fève tonka Miel,Vanille Musc blanc,38,9,8,Automne/Hiver,Quotidien/Soirée
+Taskeen Marina,Paris Corner,Dupe,Femme,Erba Pura / Fruity Tropical,Fruité Tropical,Orange Pamplemousse Fruits exotiques,Jasmin Muguet Pêche,Musc Ambre Cassis,35,8,8,Printemps/Été,Vacances/Quotidien
+Qimmah for Women,Lattafa,Dupe,Femme,Carolina Herrera Good Girl,Gourmand Floral,Amande Café,Tubéreuse Jasmin Fève tonka,Vanille Cacao Santal,30,8,8,Automne/Hiver,Soirée/Sortie
+Modest Deux,Afnan,Dupe,Femme,Lancôme La Nuit Trésor,Gourmand Ambré,Fraise Framboise Cerise Chocolat,Vanille Épices,Patchouli Gardénia Musc,38,9,8,Automne/Hiver,Soirée/Rendez-vous
+Souvenir Floral Bouquet,Afnan,Dupe,Femme,Parfums de Marly Delina,Floral Fruité,Rhubarbe Litchi Bergamote,Rose Pivoine Muguet Vanille,Musc Cachemire Ambre,42,9,8,Printemps/Été,Rendez-vous/Prestige
+Rose Explosion,Paris Corner,Dupe,Femme,Viktor&Rolf Flowerbomb,Floral Gourmand,Bergamote Thé,Rose Jasmin Orchidée Freesia,Patchouli Vanille Musc,35,8,8,Automne/Hiver,Soirée/Rendez-vous
+Taraf White,Zimaya,Dupe,Femme,Parfums de Marly Delina,Floral Fruité,Litchi Bergamote Poire,Rose de Turquie Pivoine,Musc blanc Vétiver,34,8,8,Printemps/Été,Quotidien/Rendez-vous
+Hayaati Florence,Lattafa,Dupe,Femme,Carolina Herrera Very Good Girl,Fruité Floral,Litchi Pamplemousse Groseille,Rose Pêche,Vanille Musc,30,8,7,Printemps/Été,Quotidien/Sortie
+Her Confession,Lattafa,Dupe,Femme,Liquides Imaginaires Blanche Bête,Floral Lacté,Cannelle Mystikal,Tubéreuse Jasmin Encens,Vanille Fève tonka Musc,42,9,8,Automne/Hiver,Rendez-vous/Soirée
+Teriaq,Lattafa,Dupe,Femme,Création Quentin Bisch (La Belle / Scandal),Gourmand Cuiré,Caramel Amande amère Abricot,Miel Rhubarbe Rose,Vanille Cuir Vétiver Musc,42,9,9,Automne/Hiver,Soirée/Sortie
+Ameerat Al Arab,Asdaaf,Dupe,Femme,Floral Musqué Oriental,Floral Fruité,Agrumes Bergamote,Musc blanc Aloe vera,Jasmin Musc Notes boisées Oud,25,8,7,Toutes saisons,Quotidien/Bureau

@@ -13,10 +13,10 @@ df = charger_catalogue()
 
 # En-tête principal
 st.title("🧴 Fragrance Recommender — Trouvez votre Signature Olfactive")
-st.markdown("Répondez à **5 questions rapides** pour découvrir les parfums les plus adaptés à votre style et votre budget.")
+st.markdown(f"Répondez à **6 questions rapides** parmi **{len(df)} références** (Homme, Femme & Unisexe) pour trouver votre parfum idéal.")
 
 # Navigation par onglets
-tab1, tab2, tab3 = st.tabs(["🧭 Questionnaire & Résultats", "⚖️ Comparateur Face-à-Face", "📊 Catalogue Complet (150)"])
+tab1, tab2, tab3 = st.tabs(["🧭 Questionnaire & Résultats", "⚖️ Comparateur Face-à-Face", f"📊 Catalogue Complet ({len(df)})"])
 
 with tab1:
     with st.container(border=True):
@@ -24,17 +24,17 @@ with tab1:
         
         col_q1, col_q2 = st.columns(2)
         with col_q1:
+            q_genre = st.radio(
+                "1. Pour qui est ce parfum ?",
+                ["Homme", "Femme", "Unisexe / Peu importe"],
+                horizontal=True
+            )
             q_gamme = st.radio(
-                "1. Quelle gamme recherchez-vous ?",
+                "2. Quelle gamme recherchez-vous ?",
                 ["Peu importe (Tout voir)", "Dupes / Alternatives abordables", "Grandes marques (Designers)", "Haute parfumerie (Niche)"],
                 horizontal=False
             )
-            q_budget = st.slider("2. Quel est votre budget maximum (€) ?", min_value=20, max_value=350, value=90, step=5)
-            q_intensite = st.select_slider(
-                "3. Quelle tenue / présence souhaitez-vous ?",
-                options=["Discret & léger", "Équilibré au quotidien", "Tenace & remarquable", "Mode Bête (Sillage massif)"],
-                value="Tenace & remarquable"
-            )
+            q_budget = st.slider("3. Quel est votre budget maximum (€) ?", min_value=20, max_value=350, value=120, step=5)
 
         with col_q2:
             q_ambiance = st.selectbox(
@@ -56,6 +56,11 @@ with tab1:
                     "Sport / Été / Vacances"
                 ]
             )
+            q_intensite = st.select_slider(
+                "6. Quelle tenue / présence souhaitez-vous ?",
+                options=["Discret & léger", "Équilibré au quotidien", "Tenace & remarquable", "Mode Bête (Sillage massif)"],
+                value="Tenace & remarquable"
+            )
 
         st.button("✨ Trouver mes parfums idéaux", type="primary", use_container_width=True)
 
@@ -76,7 +81,15 @@ with tab1:
     cat_cible = map_gamme[q_gamme]
     tenue_min = map_tenue[q_intensite]
 
-    df_filtre = df[(df["prix_eur"] <= q_budget) & (df["tenue_sur_10"] >= tenue_min)].copy()
+    # Filtrage par genre (inclut automatiquement les parfums Unisexes pour Homme et Femme)
+    if q_genre == "Homme":
+        df_filtre = df[df["genre"].isin(["Homme", "Unisexe"])].copy()
+    elif q_genre == "Femme":
+        df_filtre = df[df["genre"].isin(["Femme", "Unisexe"])].copy()
+    else:
+        df_filtre = df.copy()
+
+    df_filtre = df_filtre[(df_filtre["prix_eur"] <= q_budget) & (df_filtre["tenue_sur_10"] >= tenue_min)]
     if cat_cible != "Toutes":
         df_filtre = df_filtre[df_filtre["categorie"] == cat_cible]
 
@@ -134,7 +147,7 @@ with tab1:
                 
                 with col_info:
                     st.subheader(f"{p['nom']} — {p['marque']}")
-                    st.caption(f"Catégorie : **{p['categorie']}** | Famille : **{p['famille']}** | Saison : **{p['saison']}**")
+                    st.caption(f"Genre : **{p['genre']}** | Catégorie : **{p['categorie']}** | Famille : **{p['famille']}** | Saison : **{p['saison']}**")
                     if p["categorie"] == "Dupe" and p["inspiration"] != "Original":
                         st.info(f"💡 Alternative inspirée de : **{p['inspiration']}**")
                     st.markdown(f"**Pyramide olfactive :** {p['notes_tete']}, {p['notes_coeur']}, {p['notes_fond']}")
@@ -152,7 +165,7 @@ with tab1:
 
 with tab2:
     st.subheader("⚖️ Comparer deux parfums face-à-face")
-    df["label_complet"] = df["nom"] + " (" + df["marque"] + " - " + df["categorie"] + ")"
+    df["label_complet"] = df["nom"] + " (" + df["marque"] + " - " + df["genre"] + " - " + df["categorie"] + ")"
     liste_labels = sorted(df["label_complet"].tolist())
     
     c_sel1, c_sel2 = st.columns(2)
@@ -167,7 +180,7 @@ with tab2:
         with col:
             with st.container(border=True):
                 st.markdown(f"### {p['nom']} — {p['marque']}")
-                st.write(f"**Catégorie :** {p['categorie']} | **Prix :** {p['prix_eur']} €")
+                st.write(f"**Genre :** {p['genre']} | **Catégorie :** {p['categorie']} | **Prix :** {p['prix_eur']} €")
                 if p["categorie"] == "Dupe" and p["inspiration"] != "Original":
                     st.write(f"**Inspiration :** {p['inspiration']}")
                 st.write(f"**Famille :** {p['famille']} | **Saison :** {p['saison']}")
@@ -175,8 +188,8 @@ with tab2:
                 st.info(f"**Notes :** {p['notes_tete']} • {p['notes_coeur']} • {p['notes_fond']}")
 
 with tab3:
-    st.subheader("📊 Base de données complète (150 références)")
-    recherche = st.text_input("Rechercher un nom, une marque ou une inspiration (ex: Aventus, Lattafa, Vanille) :", "")
+    st.subheader(f"📊 Base de données complète ({len(df)} références)")
+    recherche = st.text_input("Rechercher un nom, une marque, un genre ou une inspiration (ex: Delina, Libre, Lattafa, Femme) :", "")
     df_affichage = df.drop(columns=["label_complet"], errors="ignore")
     if recherche.strip():
         masque = df_affichage.apply(lambda row: recherche.lower() in str(row.values).lower(), axis=1)
