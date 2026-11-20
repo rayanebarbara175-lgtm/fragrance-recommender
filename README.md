@@ -1,17 +1,19 @@
-# Moteur de Recommandation de Parfums
+# Fragrance Recommender — Moteur de Recommandation Olfactive
 
-Application interactive développée en Python permettant de recommander des fragrances personnalisées selon le profil olfactif, la saison, l'occasion et le budget de l'utilisateur.
+Application interactive d'aide au choix de parfums développée en **Python**, **Pandas** et **Streamlit**, reposant sur une base structurée de **150 références** (Dupes, Designers et Haute Parfumerie / Niche).
 
-## Fonctionnalités
-- Filtrage multicritères (famille olfactive, saison, occasion, budget).
-- Système de scoring pondéré basé sur les accords principaux et les notes clés.
-- Interface web interactive réalisée avec Streamlit.
+## Fonctionnalités principales
+- **Questionnaire olfactif guidé** : traduction de préférences utilisateur (gamme, budget, intensité, univers olfactif, occasion) en critères de filtrage et de scoring pondéré.
+- **Algorithme de matching explicable** : calcul d'un score de compatibilité sur 100 % combinant adéquation olfactive, saisonnalité, occasion et performances (tenue et sillage).
+- **Comparateur face-à-face** : analyse côte à côte de deux références (pyramides olfactives, prix, inspirations).
+- **Catalogue interactif** : exploration et recherche plein texte sur les 150 parfums de la base de données.
 
 ## Stack Technique
-- Python 3, Pandas, Streamlit
+- **Langage** : Python 3
+- **Manipulation de données** : Pandas
+- **Interface & Déploiement** : Streamlit / Streamlit Community Cloud
 
 ## Installation & Lancement
 ```bash
-pip install pandas streamlit
+pip install -r requirements.txt
 streamlit run app.py
-```
