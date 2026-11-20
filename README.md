@@ -1,6 +1,6 @@
 # Fragrance Recommender — Moteur de Recommandation Olfactive
 
-Application interactive d'aide au choix de parfums développée en **Python**, **Pandas** et **Streamlit**, reposant sur une base structurée de **150 références** (Dupes, Designers et Haute Parfumerie / Niche).
+Application interactive d'aide au choix de parfums développée en **Python**, **Pandas** et **Streamlit**, reposant sur une base structurée de **250 références** (Dupes, Designers et Haute Parfumerie / Niche).
 
 ## Fonctionnalités principales
 - **Questionnaire olfactif guidé** : traduction de préférences utilisateur (gamme, budget, intensité, univers olfactif, occasion) en critères de filtrage et de scoring pondéré.
